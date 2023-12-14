@@ -1,0 +1,123 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Team Stats</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #container, #container1 ,#container0{
+            background-color: #fff;
+            padding: 20px;
+            border-radius: 10px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 450px;
+            text-align: center; 
+            max-width: 100%; 
+            margin: 10px; 
+        }
+        #socialMedia {
+        position: fixed;
+        top: 20px;
+        right: 50px;
+        display: flex;
+        align-items: center; 
+        gap: 10px;
+    }
+
+    #socialMedia h3 {
+        margin-right: 10px;
+    }
+
+    #socialMedia a {
+        text-decoration: none;
+        color: #333;
+        font-size: 18px;
+        display: inline-block;
+        margin-right: 10px;
+    }
+
+        h1, h2 {
+            text-align: center;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="socialMedia">
+        <h3>Socials: </h3>
+        <a href="" target="_blank" id="fBook">Instagram</a>
+        <a href="" target="_blank" id="iG">Twitter</a>
+        <a href="" target="_blank" id="nhl">NHL</a>
+    </div>
+    <div id="container0">
+        <h1>All Seasons Statistics</h1>
+
+        <h2 >Current Season Year: 2023</h2>
+
+        <ul>
+            <li id="sN"><strong>Amount of Seasons Played:</strong> NULL</li>
+            <li id="wins"><strong>Total amount of Wins:</strong> NULL</li>
+            <li id="losses"><strong>Total amount of Losses:</strong> NULL</li>
+            <li id="ties"><strong>Total amount of Ties:</strong> NULL</li>
+            <li id="oT"><strong>OT:</strong> Total amount of OT:</li>
+            <li id="pnts"><strong>Total amount of Points:</strong> NULL</li>
+            <li id="pApp"><strong>Total amount of Playoff Appearances:</strong> NULL</li>
+            <li id="pWins"><strong>Total amount of Playoff Appearance Wins:</strong> NULL</li>
+            <li id="pLosses"><strong>Total amount of Playoff Appearance Losses:</strong> NULL</li>
+            <li id="cupWon"><strong>Total amount of Cups Won:</strong> NULL</li>
+            <li id="lyearWon"><strong>Last Year Team Won Playoffs:</strong> NULL</li>
+        </ul>
+    </div>
+    <div id="container">
+        <h1>Team Statistics</h1>
+
+        <h2 id="tN">Team Name: Example Team</h2>
+
+        <ul>
+            <li id="city"><strong>City:</strong> NULL</li>
+            <li id="country"><strong>Province:</strong> NULL</li>
+            <li id="fDate"><strong>Country:</strong> NULL</li>
+            <li id="aName"><strong>Year Founded:</strong> NULL</li>
+            <li id="conf"><strong>Confrence:</strong> NULL</li>
+            <li id="tColor"><strong>Team Color:</strong> NULL</li>
+            <img id="myImage" alt="Logo">
+        </ul>
+        
+    </div>
+
+    <div id="container1">
+        <h1>Captain Statistics</h1>
+
+        <h2 id="cN">Captain Full Name: Example Team</h2>
+
+        <ul>
+            <li id="teamNameCap"><strong>Team Name Abbreviated:</strong> NULL</li>
+            <li id="fDateCap"><strong>Type of Captain:</strong> NULL</li>
+        </ul>
+    </div>
+
+    
+
+    <script src="teamData.js"></script>
+</body>
+</html>

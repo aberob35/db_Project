@@ -1,0 +1,112 @@
+1|Anaheim Ducks|ANA|Cam|Fowler|Alternate Captain
+1|Anaheim Ducks|ANA|Adam|Henrique|Alternate Captain
+1|Anaheim Ducks|ANA|Troy|Terry|Alternate Captain
+2|Arizona Coyotes|ARI|Lawson|Crouse|Alternate Captain
+2|Arizona Coyotes|ARI|Clayton|Keller|Alternate Captain
+2|Arizona Coyotes|ARI|Nick|Schmaltz|Alternate Captain
+3|Boston Bruins|BOS|Brad|Marchand|Captain
+3|Boston Bruins|BOS|Charlie|McAvoy|Alternate Captain
+3|Boston Bruins|BOS|David|Pastrnak|Alternate Captain
+4|Buffalo Sabres|BUF|Kyle|Okposo|Captain
+4|Buffalo Sabres|BUF|Rasmus|Dahlin|Alternate Captain
+4|Buffalo Sabres|BUF|Zemgus|Girgensons|Alternate Captain
+5|Calgary Flames|CGY|Mikael|Backlund|Captain
+5|Calgary Flames|CGY|Rasmus|Andersson|Alternate Captain
+5|Calgary Flames|CGY|Jonathan|Huberdeau|Alternate Captain
+5|Calgary Flames|CGY|Elias|Lindholm|Alternate Captain
+5|Calgary Flames|CGY|Christopher|Tanev|Alternate Captain
+6|Carolina Hurricanes|CAR|Jordan|Staal|Captain
+6|Carolina Hurricanes|CAR|Sebastian|Aho|Alternate Captain
+6|Carolina Hurricanes|CAR|Jordan|Martinook|Alternate Captain
+6|Carolina Hurricanes|CAR|Jaccob|Slavin|Alternate Captain
+7|Chicago Blackhawks|CHI|Nick|Foligno|Alternate Captain
+7|Chicago Blackhawks|CHI|Seth|Jones|Alternate Captain
+7|Chicago Blackhawks|CHI|Connor|Murphy|Alternate Captain
+8|Colorado Avalanche|COL|Gabriel|Landeskog|Captain
+8|Colorado Avalanche|COL|Nathan|MacKinnon|Alternate Captain
+8|Colorado Avalanche|COL|Mikko|Rantanen|Alternate Captain
+9|Columbus Blue Jackets|CBJ|Boone|Jenner|Captain
+9|Columbus Blue Jackets|CBJ|Erik|Gudbranson|Alternate Captain
+9|Columbus Blue Jackets|CBJ|Sean|Kuraly|Alternate Captain
+9|Columbus Blue Jackets|CBJ|Zach|Werenski|Alternate Captain
+10|Dallas Stars|DAL|Jamie|Benn|Captain
+10|Dallas Stars|DAL|Miro|Heiskanen|Alternate Captain
+10|Dallas Stars|DAL|Esa|Lindell|Alternate Captain
+10|Dallas Stars|DAL|Joe|Pavelski|Alternate Captain
+10|Dallas Stars|DAL|Tyler|Seguin|Alternate Captain
+11|Detroit Red Wings|DET|Dylan|Larkin|Captain
+11|Detroit Red Wings|DET|Ben|Chiarot|Alternate Captain
+11|Detroit Red Wings|DET|Andrew|Copp|Alternate Captain
+11|Detroit Red Wings|DET|David|Perron|Alternate Captain
+12|Edmonton Oilers|EDM|Connor|McDavid|Captain
+12|Edmonton Oilers|EDM|Leon|Draisaitl|Alternate Captain
+12|Edmonton Oilers|EDM|Ryan|Nugent-Hopkins|Alternate Captain
+12|Edmonton Oilers|EDM|Darnell|Nurse|Alternate Captain
+13|Florida Panthers|FLA|Aleksander|Barkov|Captain
+13|Florida Panthers|FLA|Aaron|Ekblad|Alternate Captain
+13|Florida Panthers|FLA|Matthew|Tkachuk|Alternate Captain
+14|Los Angeles Kings|LAK|Anze|Kopitar|Captain
+14|Los Angeles Kings|LAK|Phillip|Danault|Alternate Captain
+14|Los Angeles Kings|LAK|Drew|Doughty|Alternate Captain
+15|Minnesota Wild|MIN|Jared|Spurgeon|Captain
+15|Minnesota Wild|MIN|Marcus|Foligno|Alternate Captain
+15|Minnesota Wild|MIN|Kirill|Kaprizov|Alternate Captain
+16|Montreal Canadiens|MTL|Nick|Suzuki|Captain
+16|Montreal Canadiens|MTL|Brendan|Gallagher|Alternate Captain
+16|Montreal Canadiens|MTL|Mike|Matheson|Alternate Captain
+17|Nashville Predators|NSH|Roman|Josi|Captain
+17|Nashville Predators|NSH|Roman|Josi|Captain
+17|Nashville Predators|NSH|Ryan|McDonagh|Alternate Captain
+17|Nashville Predators|NSH|Ryan|O'Reilly|Alternate Captain
+18|New Jersey Devils|NJD|Nico|Hischier|Captain
+18|New Jersey Devils|NJD|Jack|Hughes|Alternate Captain
+18|New Jersey Devils|NJD|Ondrej|Palat|Alternate Captain
+19|New York Islanders|NYI|Anders|Lee|Captain
+19|New York Islanders|NYI|Cal|Clutterbuck|Alternate Captain
+19|New York Islanders|NYI|Brock|Nelson|Alternate Captain
+20|New York Rangers|NYR|Jacob|Trouba|Captain
+20|New York Rangers|NYR|Adam|Fox|Alternate Captain
+20|New York Rangers|NYR|Barclay|Goodrow|Alternate Captain
+20|New York Rangers|NYR|Chris|Kreider|Alternate Captain
+20|New York Rangers|NYR|Artemi|Panarin|Alternate Captain
+20|New York Rangers|NYR|Mika|Zibanejad|Alternate Captain
+21|Ottawa Senators|OTT|Brady|Tkachuk|Captain
+21|Ottawa Senators|OTT|Thomas|Chabot|Alternate Captain
+21|Ottawa Senators|OTT|Claude|Giroux|Alternate Captain
+22|Philadelphia Flyers|PHI|Scott|Laughton|Alternate Captain
+23|Pittsburgh Penguins|PIT|Sidney|Crosby|Captain
+23|Pittsburgh Penguins|PIT|Kris|Letang|Alternate Captain
+23|Pittsburgh Penguins|PIT|Evgeni|Malkin|Alternate Captain
+24|San Jose Sharks|SJS|Logan|Couture|Captain
+24|San Jose Sharks|SJS|Mario|Ferraro|Alternate Captain
+24|San Jose Sharks|SJS|Tomas|Hertl|Alternate Captain
+25|Seattle Kraken|SEA|Jordan|Eberle|Alternate Captain
+25|Seattle Kraken|SEA|Yanni|Gourde|Alternate Captain
+25|Seattle Kraken|SEA|Adam|Larsson|Alternate Captain
+25|Seattle Kraken|SEA|Jaden|Schwartz|Alternate Captain
+26|St. Louis Blues|STL|Brayden|Schenn|Captain
+26|St. Louis Blues|STL|Justin|Faulk|Alternate Captain
+26|St. Louis Blues|STL|Colton|Parayko|Alternate Captain
+26|St. Louis Blues|STL|Robert|Thomas|Alternate Captain
+27|Tampa Bay Lightning|TBL|Steven|Stamkos|Captain
+27|Tampa Bay Lightning|TBL|Victor|Hedman|Alternate Captain
+27|Tampa Bay Lightning|TBL|Nikita|Kucherov|Alternate Captain
+28|Toronto Maple Leafs|TOR|John|Tavares|Captain
+28|Toronto Maple Leafs|TOR|Mitch|Marner|Alternate Captain
+28|Toronto Maple Leafs|TOR|Auston|Matthews|Alternate Captain
+28|Toronto Maple Leafs|TOR|Morgan|Rielly|Alternate Captain
+29|Vancouver Canucks|VAN|Quinn|Hughes|Captain
+29|Vancouver Canucks|VAN|J. T.|Miller|Alternate Captain
+29|Vancouver Canucks|VAN|Elias|Pettersson|Alternate Captain
+30|Vegas Golden Knights|VGK|Mark|Stone|Captain
+30|Vegas Golden Knights|VGK|Jack|Eichel|Alternate Captain
+30|Vegas Golden Knights|VGK|William|Karlsson|Alternate Captain
+30|Vegas Golden Knights|VGK|Alex|Pietrangelo|Alternate Captain
+31|Washington Capitals|WSH|Alexander|Ovechkin|Captain
+31|Washington Capitals|WSH|Nicklas|Backstrom|Alternate Captain
+31|Washington Capitals|WSH|John|Carlson|Alternate Captain
+31|Washington Capitals|WSH|T. J.|Oshie|Alternate Captain
+31|Washington Capitals|WSH|Tom|Wilson|Alternate Captain
+32|Winnipeg Jets|WPG|Adam|Lowry|Captain
+32|Winnipeg Jets|WPG|Josh|Morrissey|Alternate Captain
+32|Winnipeg Jets|WPG|Mark|Scheifele|Alternate Captain

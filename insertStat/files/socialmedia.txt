@@ -1,0 +1,32 @@
+1|Anaheim Ducks|ANA|https://www.instagram.com/anaheimducks/|https://twitter.com/AnaheimDucks|https://www.nhl.com/ducks/
+2|Arizona Coyotes|ARI|https://www.instagram.com/arizonacoyotes/|https://twitter.com/ArizonaCoyotes|https://www.nhl.com/coyotes/
+3|Boston Bruins|BOS|https://www.instagram.com/nhlbruins/|https://twitter.com/NHLBruins|https://www.nhl.com/bruins/
+4|Buffalo Sabres|BUF|https://www.instagram.com/buffalosabres/|https://twitter.com/BuffaloSabres|https://www.nhl.com/sabres/
+5|Calgary Flames|CGY|https://www.instagram.com/nhlflames/|https://twitter.com/NHLFlames|https://www.nhl.com/flames/
+6|Carolina Hurricanes|CAR|https://www.instagram.com/canes/|https://twitter.com/Canes|https://www.nhl.com/hurricanes/
+7|Chicago Blackhawks|CHI|https://www.instagram.com/nhlblackhawks/|https://twitter.com/NHLBlackhawks|https://www.nhl.com/blackhawks/
+8|Colorado Avalanche|COL|https://www.instagram.com/coloradoavalanche/|https://twitter.com/Avalanche|https://www.nhl.com/avalanche/
+9|Columbus Blue Jackets|CBJ|https://www.instagram.com/bluejacketsnhl/|https://twitter.com/BlueJacketsNHL|https://www.nhl.com/bluejackets/
+10|Dallas Stars|DAL|https://www.instagram.com/dallasstars/|https://twitter.com/DallasStars|https://www.nhl.com/stars/
+11|Detroit Red Wings|DET|https://www.instagram.com/detriotredwings/|https://twitter.com/DetriotRedWings|https://www.nhl.com/redwings/
+12|Edmonton Oilers|EDM|https://www.instagram.com/edmontonoilers/|https://twitter.com/EdmontonOilers|https://www.nhl.com/oilers/
+13|Florida Panthers|FLA|https://www.instagram.com//|https://twitter.com/FlaPanthers|https://www.nhl.com/panthers/
+14|Los Angeles Kings|LAK|https://www.instagram.com/lakings/|https://twitter.com/LAKings|https://www.nhl.com/kings/
+15|Minnesota Wild|MIN|https://www.instagram.com/minnesotawild/|https://twitter.com/MNWild|https://www.nhl.com/wild/
+16|Montreal Canadiens|MTL|https://www.instagram.com/canadiensmtl/|https://twitter.com/CanadiensMTL|https://www.nhl.com/canadiens/
+17|Nashville Predators|NSH|https://www.instagram.com/predsnhl/|https://twitter.com/PredsNHL|https://www.nhl.com/predators/
+18|New Jersey Devils|NJD|https://www.instagram.com/njdevils/|https://twitter.com/NJDevils|https://www.nhl.com/devils/
+19|New York Islanders|NYI|https://www.instagram.com/ny_islanders/|https://twitter.com/NYIslanders|https://www.nhl.com/islanders/
+20|New York Rangers|NYR|https://www.instagram.com/nyrangers/|https://twitter.com/NYRangers|https://www.nhl.com/rangers/
+21|Ottawa Senators|OTT|https://www.instagram.com/senators/|https://twitter.com/Senators|https://www.nhl.com/senators/
+22|Philadelphia Flyers|PHI|https://www.instagram.com/philidelphiaflyers/|https://twitter.com/NHLFlyers|https://www.nhl.com/flyers/
+23|Pittsburgh Penguins|PIT|https://www.instagram.com/penguins/|https://twitter.com/Penguins|https://www.nhl.com/penguins/
+24|San Jose Sharks|SJS|https://www.instagram.com/sanjosesharks/|https://twitter.com/SanJoseSharks|https://www.nhl.com/sharks/
+25|Seattle Kraken|SEA|https://www.instagram.com/seattlekraken/|https://twitter.com/SeattleKraken|https://www.nhl.com/kraken/
+26|St. Louis Blues|STL|https://www.instagram.com/stlouisblues/|https://twitter.com/StLouisBlues|https://www.nhl.com/blues/
+27|Tampa Bay Lightning|TBL|https://www.instagram.com/tblightning/|https://twitter.com/TBLightning|https://www.nhl.com/lightning/
+28|Toronto Maple Leafs|TOR|https://www.instagram.com/mapleleafs/|https://twitter.com/MapleLeafs|https://www.nhl.com/mapleleafs/
+29|Vancouver Canucks|VAN|https://www.instagram.com/canucks/|https://twitter.com/Canucks|https://www.nhl.com/canucks/
+30|Vegas Golden Knights|VGK|https://www.instagram.com/vegasgoldenknights/|https://twitter.com/GoldenKnights|https://www.nhl.com/goldenknights/
+31|Washington Capitals|WSH|https://www.instagram.com/capitals/|https://twitter.com/Capitals|https://www.nhl.com/capitals/
+32|Winnipeg Jets|WPG|https://www.instagram.com/nhljets/|https://twitter.com/NHLJets|https://www.nhl.com/jets/

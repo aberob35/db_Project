@@ -1,0 +1,78 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Player Stats</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #container, #container0 {
+            background-color: #fff;
+            padding: 10px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px;
+            text-align: center; 
+            max-width: 100%; 
+        }
+
+        h1, h2 {
+            text-align: center;
+        }
+
+        ul {
+            list-style: none;
+            padding: 0;
+        }
+
+        li {
+            margin-bottom: 10px;
+        }
+    </style>
+</head>
+<body>
+    <div id="container0">
+        <h1>Current Seasons Team Statistics</h1>
+
+        <h2 id="sY">Season Year: NULL</h2>
+
+        <ul>
+            <li id="temName"><strong>Team Name:</strong> NULL</li>
+            <li id="gP"><strong>GP:</strong> NULL</li>
+            <li id="wins"><strong>Wins:</strong> NULL</li>
+            <li id="losses"><strong>Losses:</strong> NULL</li>
+            <li id="oT"><strong>OT:</strong> NULL</li>
+            <li id="pnts"><strong>Points:</strong> NULL</li>
+        </ul>
+    </div>
+
+    <div id="container">
+        <h1>Current Player Statistics</h1>
+
+
+        <h2 id="pN">Player Name: John Doe</h2>
+
+        <ul>
+            <li id="tm"><strong>Team Name:</strong>NULL</li>
+            <li id="pos"><strong>Position:</strong>NULL</li>
+            <li id="jN"><strong>Jersey Number:</strong> NULL</li>
+            <li id="age"><strong>Age:</strong> NULL</li>
+            <li id="sal"><strong>Salary:</strong> NULL</li>
+            <li id="dY"><strong>Draft Year:</strong> NULL</li>            
+            <li id="count"><strong>Country:</strong> NULL</li>
+        </ul>
+    </div>
+    <script src="player.js"></script>
+</body>
+</html>

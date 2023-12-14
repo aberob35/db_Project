@@ -1,0 +1,769 @@
+Troy|Terry|Right Winger|ANA|1|19|United States|1997|26|2015|ANA|7000000|2023|1|7|Healthy
+Alex|Killorn|Right Winger|ANA|1|17|Canada|1989|34|2007|TBL|6250000|2023|1|4|Healthy
+Adam|Henrique|Left Winger|ANA|1|14|Canada|1990|33|2008|NJD|5825000|2018|5|5|Healthy
+Jakob|Silfverberg|Right Winger|ANA|1|33|Sweden|1990|33|2009|OTT|5250000|2019|5|5|Healthy
+Ryan|Strome|Center|ANA|1|16|Canada|1993|30|2011|NYI|5000000|2022|2|5|Healthy
+Frank|Vatrano|Left Winger|ANA|1|77|United States|1994|29|NULL|NULL|10950000|2023|1|3|Healthy
+Brock|McGinn|Left Winger|ANA|1|26|Canada|1994|29|2012|CAR|2750000|2021|3|4|Healthy
+Max|Jones|Left Winger|ANA|1|49|United States|1998|25|2016|ANA|1295000|2021|3|3|Healthy
+Ross|Johnston|Left Winger|ANA|1|44|Canada|1994|29|NULL|NULL|1100000|2021|2|4|Healthy
+Leo|Carlsson|Center|ANA|1|91|Sweden|2004|18|2023|ANA|950000|2023|1|3|Healthy
+Mason|McTavish|Center|ANA|1|23|Switzerland|2003|20|2021|ANA|894167|2021|3|4|Healthy
+Sam|Carrick|Center|ANA|1|39|Canada|1992|31|2010|TOR|850000|2022|2|2|Healthy
+Brett|Leason|Right Winger|ANA|1|20|Canada|1999|24|2019|WSH|775000|2022|2|2|Healthy
+Benoit-Olivier|Groulx|Center|ANA|1|24|Canada|2000|23|2018|ANA|775000|2023|1|1|Healthy
+Cam|Fowler|Left Defense|ANA|1|4|Canada|1991|31|2010|ANA|6500000|2017|6|8|Healthy
+Radko|Gudas|Right Defense|ANA|1|7|Czech Republic|1990|33|2010|TBL|12000000|2023|1|3|Healthy
+Ilya|Lyubushkin|Right Defense|ANA|1|46|Russia|1994|29|NULL|NULL|2750000|2022|2|2|Healthy
+Jackson|LaCombe|Left Defense|ANA|1|60|United States|2001|22|2019|ANA|925000|2022|2|2|Healthy
+Pavel|Mintyukov|Left Defense|ANA|1|34|Russia|2003|20|2022|ANA|918333|2022|2|4|Healthy
+Tristan|Luneau|Right Defense|ANA|1|67|Canada|2004|19|2022|ANA|896667|2023|1|3|Healthy
+Urho|Vaakanainen|Left Defense|ANA|1|5|Finland|1999|24|2017|BOS|850000|2022|2|2|Healthy
+John|Gibson|Goalie|ANA|1|36|United States|1993|30|2011|ANA|6400000|2019|5|8|Healthy
+Lukas|Dostal|Goalie|ANA|1|1|Czech Republic|2000|23|2018|ANA|812500|2023|1|2|Healthy
+Trevor|Zegras|Center|ANA|1|11|United States|2001|22|2019|ANA|5750000|2023|1|3|IR
+Jamie|Drysdale|Right Defense|ANA|1|6|Canada|2002|21|2020|ANA|2300000|2023|1|3|IR
+Isac|Lundeström|Center|ANA|1|21|Sweden|1999|24|2018|ANA|1800000|2022|2|2|IR
+Jack|Eichel|Center|VGK|30|9|United States|1996|27|2015|BUF|10000000|2018|6|8|Healthy
+Mark|Stone|Right Winger|VGK|30|61|Canada|1992|31|2010|OTT|9500000|2019|5|8|Healthy
+William|Karlsson|Center|VGK|30|71|Sweden|1993|30|2011|ANA|5900000|2019|5|8|Healthy
+Jonathan|Marchessault|Right Winger|VGK|30|81|Canada|1990|32|NULL|NULL|5000000|2018|6|6|Healthy
+Ivan|Barbashev|Left Winger|VGK|30|49|Russia|1995|27|2014|STL|5000000|2023|1|5|Healthy
+Nicolas|Roy|Center|VGK|30|10|Canada||1997|26|2015|CAR|3000000|2022|2|5|Healthy
+Chandler|Stephenson|Center|VGK|30|20|Canada|1994|29|2012|WSH|2750000|2020|4|4|Healthy
+Brett|Howden|Center|VGK|30|21|Canada|1998|25|2016|TBL|1900000|2023|1|2|Healthy
+William|Carrier|Left Winger|VGK|30|28|Canada|1994|28|2013|STL|1400000|2020|4|4|Healthy
+Keegan|Kolesar|Right Winger|VGK|30|55|Canada|1997|26|2015|CBJ|1400000|2022|2|3|Healthy
+Pavel|Dorofeyev|Left Winger|VGK|30|16|Russia|2000|23|2019|VGK|825000|2023|1|1|Healthy
+Paul|Cotter|Left Winger|VGK|30|43|United States|1999|24|2018|VGK|775000|2022|3|4|Healthy
+Michael|Amadio|Left Winger|VGK|30|22|Canada|1996|27|2014|LAK|762500|2022|2|2|Healthy
+Alex|Pietrangelo|Right Defense|VGK|30|7|Canada|1990|33|2008|STL|8800000|2020|4|7|Healthy
+Alec|Martinez|Left Defense|VGK|30|23|United States|1987|36|2007|LAK|5250000|2021|3|3|Healthy
+Brayden|McNabb|Left Defense|VGK|30|3|Canada|1991|32|2009|BUF|2850000|2022|2|3|Healthy
+Zach|Whitecloud|Right Defense|VGK|30|2|Canada|1996|28|NULL|NULL|2750000|2022|2|6|Healthy
+Nicolas|Hague|Left Defense|VGK|30|14|Canada|1998|24|2017|VGK|2294150|2022|2|3|Healthy
+Ben|Hutton|Left Defense|VGK|30|17|Canada|1993|30|2012|VAN|850000|2022|2|2|Healthy
+Kaedan|Korczak|Right Defense|VGK|30|6|Canada|2001|22|2019|VGK|789167|2019|5|5|Healthy
+Brayden|Pachal|Right Defense|VGK|30|94|Canada|1999|24|NULL|NULL|775000|2023|1|2|Healthy
+Adin|Hill|Goalie|VGK|30|33|Canada|1996|27|2015|ARI|4900000|2023|1|2|Healthy
+Logan|Thompson|Goalie|VGK|30|36|Canada|1997|26|NULL|NULL|766667|2022|2|3|Healthy
+Shea|Theodore|Left/Right Defense|VGK|30|27|Canada|1995|28|2013|ANA|5200000|2018|6|7|IR
+Robin|Lehner|Goalie|VGK|30|90|Sweden|1991|32|2009|OTT|5000000|2020|4|5|LTIR
+Daniil|Miromanov|Right Defense|VGK|30|62|Russia|1997|26|NULL|NULL|762500|2022|2|2|LTIR
+Clayton|Keller|Left Winger|ARI|2|9|United States|1998|25|2016|ARI|7150000|2020|4|8|Healthy
+Nick|Schmaltz|Right Winger|ARI|2|8|United States|1996|27|2014|CHI|5850000|2019|5|7|Healthy
+Jason|Zucker|Left Winger|ARI|2|16|United States|1992|31|2010|MIN|5300000|2023|1|1|Healthy
+Lawson|Crouse|Left Winger|ARI|2|67|Canada|1997|26|2015|FLA|4300000|2022|2|5|Healthy
+Alexander|Kerfoot|Left Winger|ARI|2|15|Canada|1994|29|2012|NJD|3500000|2023|1|2|Healthy
+Matias|Maccelli|Left Winger|ARI|2|63|Finland|2000|23|2019|ARI|3425000|2023|1|3|Healthy
+Nick|Bjugstad|Center|ARI|2|17|United States|1992|31|2010|FLA|2100000|2023|1|2|Healthy
+Travis|Boyd|Center|ARI|2|72|United States|1993|30|2011|WSH|1750000|2022|2|2|Healthy
+Logan|Cooley|Center|ARI|2|92|United States|2004|19|2022|ARI|950000|1|3|Healthy
+Milos|Kelemen|Right Winger|ARI|2|21|Slovakia|1999|24|NULL|NULL|817500|2022|2|2|Healthy
+Liam|O'Brien|Left Winger|ARI|2|38|Canada|1994|29|NULL|NULL|775000|2022|2|2|Healthy
+Michael|Carcone|Left Winger|ARI|2|53|Canada|1996|27|NULL|NULL|775000|2023|1|2|Healthy
+Matt|Dumba|Right Defense|ARI|2|24|Canada|1994|29|2012|MIN|3900000|2023|1|1|Healthy
+Sean|Durzi|Left Defense|ARI|2|50|Chicago|1998|25|2018|TOR|1700000|2022|2|2|Healthy
+Joshua|Brown|Right Defense|ARI|2|3|Canada|1994|29|2013|FLA|1275000|2022|2|2|Healthy
+Troy|Stecher|Right Defense|ARI|2|51|Canada|1994|29|NULL|NULL|1100000|2023|1|1|Healthy
+Juuso|Välimäki|Left Defense|ARI|2|4|Finlad|1998|25|2017|CGY|1000000|2023|1|1|Healthy
+Michael|Kesselring|Right Defense|ARI|2|5|United States|2000|23|2018|EDM|925000|2021|3|3|Healthy
+J.J.|Moser|Left Defense|ARI|2|90|Switzerland|2000|23|2021|ARI|886667|2021|3|3|Healthy
+Karel|Vejmelka|Goalie|ARI|2|70|Czech Republic|1996|27|2015|NSH|2725000|2022|2|3|Healthy
+Connor|Ingram|Goalie|ARI|2|30|Canada|1997|26|2016|TBL|1950000|2023|1|3|Healthy
+Jakub|Voracek|Right Winger|ARI|2|93|Czech Republic|1989|34|2007|CBJ|8250000|8|8|IR
+Shea|Weber|Right Defense|ARI|2|6|Canada|1985|38|2003|NSH|7857143|12|14|IR
+Bryan|Little|Center|ARI|2|18|Canada|1987|36|2006|CGY|5291667|2018|6|6|IR
+Barrett|Hayton|Center|ARI|2|29|Canada|2000|23|2018|ARI|1775000|2023|2|2|IR
+Jack|McBain|Center|ARI|2|22|Canada|2000|23|2018|MIN|1599999|1|2|IR
+Travis|Dermott|Left Defense|ARI|2|33|Canada|1996|26|2015|TOR|800000|2023|1|1|IR
+Vladislav|Kolyachonok|Left Defense|ARI|2|52|Belarus|2001|22|2019|FLA|789167|2019|5|5|IR
+Kyle|Conner|Left Winger|WPG|32|81|United States|1996|26|2015|WPG|7142857|2019|5|7|Healthy
+Mark|Scheifele|Center|WPG|32|55|Canada|1993|30|2011|WPG|6125000|2016|8|8|Healthy
+Nikolaj|Ehlers|Right Winger|WPG|32|27|Denmark|1996|27|2014|WPG|6000000|2017|6|7|Healthy
+Alex|Iafallo|Left Winger|WPG|32|9|United States|1993|29|NULL|NULL|4000000|2021|3|4|Healthy
+Nino|Niederreiter|Left Winger|WPG|32|62|Switzerland|1992|31|2010|NYI|4000000|2022|2|2|Healthy
+Gabriel|Vilardi|Right Winger|WPG|32|13|Canada|1999|24|2017|LAK|3437500|2023|1|2|Healthy
+Adam|Lowry|Center|WPG|32|17|United States|1993|30|2011|WPG|3250000|2021|3|5|Healthy
+Mason|Appleton|Right Winger|WPG|32|22|United States|1996|27|2015|WPG|2166667|2022|2|3|Healthy
+Vladislav|Namestnikov|Left Winger|WPG|32|7|Russia|1992|31|2011|TBL|2000000|2023|1|2|Healthy
+Morgan|Barron|Left Winger|WPG|32|36|Canada|1998|25|2017|NYR|1350000|2023|1|2|Healthy
+Cole|Perfetti|Left Winger|WPG|32|91|Canada|2002|21|2020|WPG|894167|2020|3|3|Healthy
+David|Gustafsson|Left Winger|WPG|32|19|Sweden|2000|23|2018|WPG|775000|2022|2|2|Healthy
+Axel|Jonsson-Fjällby|Left Winger|WPG|32|71|Sweden|1998|2016|WSH|775000|2023|1|2|Healthy
+Joshua|Morrissey|Left Defense|WPG|32|44|Canada|1995|28|2013|WPG|6250000|2020|4|8|Healthy
+Nate|Schmidt|Left Defense|WPG|32|88|United States|1991|32|NULL|NULL|5950000|2019|5|6|Healthy
+Neal|Pionk|Right Defense|WPG|32|4|United States|1995|28|NULL|NULL|5875000|2021|3|4|Healthy
+Brenden|Dillon|Left Defense|WPG|32|5|Canada|1990|33|NULL|NULL|3900000|2020|4|4|Healthy
+Dylan|DeMelo|Right Defense|WPG|32|2|Canada|1993|30|2011|SJS|3000000|2020|4|4|Healthy
+Dylan|Samberg|Left Defense|WPG|32|54|United States|1999|24|2017|WPG|1400000|2023|1|2|Healthy
+Logan|Stanley|Left Defense|WPG|32|64|Canada|1998|25|2016|WPG|1000000|2023|1|1|Healthy
+Declan|Chisholm|Left Defense|WPG|32|47|Canada|2000|23|2018|WPG|775000|2023|1|1|Healthy
+Connor|Hellebuyck|Goalie|WPG|32|37|United States|1993|30|2012|WPG|6166667|2018|6|6|Healthy
+Laurent|Brossoit|Goalie|WPG|32|39|Canada|1993|30|2011|CGY|1750000|2023|1|1|Healthy
+Rasmus|Kupari|Center|WPG|32|15|Finland|2000|23|2018|LAK|1000000|2023|1|2|IR
+David|Pastrnak|Right Winger|BOS|3|88|Czech Republic|1996|27|2014|BOS|11250000|2023|1|8|Healthy
+Brad|Marchand|Left Winger|BOS|3|63|Canada|1988|35|2006|BOS|6125000|2016|7|8|Healthy
+Charlie|Coyle|Center|BOS|3|13|United States|1992|31|2010|SJS|5250000|2020|4|6|Healthy
+Pavel|Zacha|Left Winger|BOS|3|18|Czech Republic|1997|26|2015|NJD|4750000|2023|1|4|Healthy
+Jake|DeBrusk|Right Winger|BOS|3|74|Canada|1996|27|2015|BOS|4000000|2022|2|2|Healthy
+Trent|Frederic|Left Winger|BOS|3|11|United States|1998|25|2016|BOS|2300000|2023|1|2|Healthy
+Morgan|Geekie|Right Winger|BOS|3|39|Canada|1998|25|2017|CAR|2000000|2023|1|2|Healthy
+James|van Riemsdyk|Left Winger|BOS|3|21|United States|1989|34|2007|PHI|2023|1|1|Healthy
+John|Beecher|Center|BOS|3|19|United States|2001|22|2019|BOS|925000|2022|2|3|Healthy
+Matthew|Poitras|Center|BOS|3|51|Canada|2004|19|2022|BOS|870000|2023|1|3|Healthy
+Oskar|Steen|Center|BOS|3|62|Sweden|1998|25|2016|BOS|800000|2022|2|2|Healthy
+Jakub|Lauko|Left Winger|BOS|3|94|Czech Republic|2000|23|2018|BOS|787500|2023|1|2|Healthy
+Danton|Heinen|Left Winger|BOS|3|43|Canada|1995|28|2014|BOS|775000|2023|1|1|Healthy
+Charlie|McAvoy|Right Defense|BOS|3|73|United States|1997|25|2016|BOS|2022|2|8|Healthy
+Hampus|Lindholm|Left Defense|BOS|3|27|Sweden|1994|29|2012|ANA|6500000|2022|2|8|Healthy
+Brandon|Carlo|Right Defense|BOS|3|25|United States|1996|27|2015|BOS|4100000|2021|3|6|Healthy
+Matt|Grzelcyk|Left Defense|BOS|3|48|United States|1994|29|2012|BOS|3687500|2020|4|4|Healthy
+Derek|Forbort|Left Defense|BOS|3|28|United States|1992|31|2010|LAK|3000000|2021|3|3|Healthy
+Kevin|Shattenkirk|Right Defense|BOS|3|12|United States|1989|34|2007|COL|1050000|1|1|Healthy
+Ian|Mitchell|Right Defense|BOS|3|14|Canada|1999|24|2017|CHI|775000|2023|1|1|Healthy
+Linus|Ullmark|Goalie|BOS|3|35|Sweden|1993|30|2012|BUF|5000000|2021|3|4|Healthy
+Jeremy|Swayman|Goalie|BOS|3|1|United States|1998|25|2017|BOS|3475000|2023|1|1|Healthy
+Milan|Lucic|Left Winger|BOS|3|17|Canada|1988|35|2006|BOS|1000000|2023|1|1|LTIR
+Auston|Matthews|Center|TOR|28|34|United States|1997|26|2016|TOR|11640250|2019|5|5|Healthy
+John|Tavares|Center|TOR|28|91|Canada|1990|33|2009|NYI|11000000|2018|6|7|Healthy
+Mitchell|Marner|Right Winger|TOR|28|16|Canada|1997|26|2015|TOR|10903000|2019|5|6|Healthy
+William|Nylander|Right Winger|TOR|28|88|Canada|1996|27|2014|TOR|6962366|2018|6|6|Healthy
+Tyler|Bertuzzi|Left Winger|TOR|28|59|Canada|1995|28|2013|DET|5500000|2023|1|1|Healthy
+Max|Domi|Center|TOR|28|11|Canada|1995|28|2013|ARI|3000000|2023|1|1|Healthy
+David|Kämpf|Center|TOR|28|64|Czech Republic|1995|28|NULL|NULL|2400000|2023|1|4|Healthy
+Calle|Järnkrok|Left Winger|TOR|28|19|Sweden|1991|32|2010|DET|2100000|2022|2|4|Healthy
+Ryan|Reaves|Right Winger|TOR|28|75|Canada|1987|36|2005|STL|2023|1|3|Healthy
+Matthew|Knies|Left Winger|TOR|28|23|United States|2002|21|2001|TOR|2022|2|3|Healthy
+Nicholas|Robertson|Left Winger|TOR|28|89|United States|2001|22|2019|TOR|796667|2019|5|5|Healthy
+Noah|Gregor|Left Winger|TOR|28|18|Canada|1998|25|2016|SJS|775000|2023|1|1|Healthy
+Morgan|Rielly|Left Defense|TOR|28|44|Canada|1994|29|2012|TOR|7500000|2022|2|8|Healthy
+TJ|Brodie|Left Defense|TOR|28|78|Canada|1990|33|2008|CGY|5000000|2020|4|4|Healthy
+Jake|McCabe|Left Defense|TOR|28|22|United States|1993|30|2012|BUF|4000000|2021|3|4|Healthy
+Conor|Timmins|Right Defense|TOR|28|25|Canada|1998|25|2017|COL|1100000|2023|1|2|Healthy
+Mark|Giordano|Left Defense|TOR|28|55|Canada|1983|40|NULL|NULL|800000|2022|2|2|Healthy
+Simon|Benoit|Left Defense|TOR|28|2|Canada|1998|25|NULL|NULL|775000|2023|1|1|Healthy
+William|Lagesson|Left Defense|TOR|28|85|Sweden|1996|27|2014|EDM|775000|2023|1|1|Healthy
+Ilya|Samsonov|Goalie|TOR|28|35|Russia|1997|26|2015|WSH|3550000|2023|1|1|Healthy
+Joseph|Woll|Goalie|TOR|28|60|United States|1998|25|2016|TOR|766667|2022|2|3|Healthy
+Jake|Muzzin|Left Defense|TOR|28|8|Canada|1989|34|2007|PIT|5625000|2020|4|4|LTIR
+Matt|Murray|Goalie|TOR|28|30|Canada|1994|29|2012|PIT|6250000|2020|4|4|LTIR
+John|Klingberg|Right Defense|TOR|28|3|Sweden|1992|31|2010|DAL|4150000|2023|1|1|LTIR
+Timothy|Liljegren|Right Defense|TOR|28|37|Sweden|1999|24|2017|TOR|1400000|2022|2|2|LTIR
+Sebastian|Aho|Center|CAR|6|20|Finland|1997|26|2015|CAR|8460250|2019|5|5|Healthy
+Andrei|Svechnikov|Left Winger|CAR|6|37|Russia|2000|23|2018|CAR|7750000|2021|3|8|Healthy
+Teuvo|Teräväinen|Left Winger|CAR|6|86|Finland|1994|29|2012|CHI|5400000|2019|5|5|Healthy
+Jesperi|Kotkaniemi|Center|CAR|6|82|Finland|2000|23|2018|MTL|4820000|2022|2|8|Healthy
+Michael|Bunting|Left Winger|CAR|6|58|Canada|1995|28|2014|ARI|4500000|2023|1|3|Healthy
+Martin|Necas|Right Winger|CAR|6|88|Czech Republic|1999|24|2017|CAR|3000000|2022|2|2|Healthy
+Jordan|Staal|Center|CAR|6|11|Canada|1988|35|2006|PIT|2900000|2023|1|4|Healthy
+Jesper|Fast|Right Winger|CAR|6|71|Sweden|1991|32|2010|NYR|2400000|2023|1|2|Healthy
+Jordan|Martinook|Left Winger|CAR|6|48|Canada|1992|32|2012|ARI|1800000|2021|3|3|Healthy
+Jack|Drury|Center|CAR|6|18|United States|2000|23|2018|CAR|925000|2021|3|3|Healthy
+Seth|Jarvis|Right Winger|CAR|6|24|Canada|2002|21|2020|CAR|894167|2020|4|4|Healthy
+Brendan|Lemieux|Left Winger|CAR|6|28|United States|1996|27|2014|BUF|800000|2023|1|1|Healthy
+Stefan|Noesen|Left Winger|CAR|6|23|United States|1993|30|2011|OTT|762500|2022|2|2|Healthy
+Dmitry|Orlov|Left Defense|CAR|6|7|Russia|1991|32|2009|WSH|7750000|2023|1|2|Healthy
+Jaccob|Slavin|Left Defense|CAR|6|74|United States|1994|29|2012|CAR|5300000|2018|6|7|Healthy
+Brent|Burns|Right Defense|CAR|6|8|Canada|1985|38|2003|MIN|8000000|2017|7|8|Healthy
+Brady|Skjei|Left Defense|CAR|6|76|United States|1994|29|2012|NYR|5250000|2018|6|6|Healthy
+Brett|Pesce|Right Defense|CAR|6|22|United States|1994|29|2013|CAR|4025000|2018|6|6|Healthy
+Anthony|Deangelo|Right Defense|CAR|6|77|United States|1995|28|18|TBL|1675000|2023|1|1|Healthy
+Jalen|Chatfield|Right Defense|CAR|6|5|United States|1996|27|NULL|NULL|762500|2022|2|3|Healthy
+Pyotr|Kochetkov|Goalie|CAR|6|52|Russia|1999|24|2019|CAR|2000000|2023|1|4|Healthy
+Antti|Raanta|Goalie|CAR|6|32|Finland|1989|34|NULL|NULL|1500000|2023|1|1|Healthy
+Frederik|Andersen|Goalie|CAR|6|31|Denmark|1989|34|2012|ANA|3400000|2023|1|2|IR
+Alex|Ovechkin|Left Winger|WSH|31|8|Russia|1985|38|2004|WSH|9500000|2021|3|5|Healthy
+Evgeny|Kuznetsov|Center|WSH|31|92|Russia|1992|31|2010|WSH|7800000|2017|7|8|Healthy
+Anthony|Mantha|Left Winger|WSH|31|39|Canada|1994|29|2013|DET|5700000|2020|4|4|Healthy
+Tom|Wilson|Right Winger|WSH|31|43|Canada|1994|29|2012|WSH|5166667|2018|6|6|Healthy
+Dylan|Strome|Center|WSH|31|17|Canada|1997|26|2015|ARI|5000000|2023|1|5|Healthy
+Sonny|Milano|Left Winger|WSH|31|15|United States|1996|27|2014|CBJ|1900000|2023|1|3|Healthy
+Nic|Dowd|Center|WSH|31|26|United States|1990|33|2009|LAK|1300000|2022|2|3|Healthy
+Nicolas|Aubé-Kubel|Right Winger|WSH|31|96|Canada|1996|27|2014|PHI|1225000|2023|1|1|Healthy
+Hendrix|Lapierre|Center|WSH|31|29|Canada|2002|21|2020|WSH|863333|2020|4|5|Healthy
+Connor|McMichael|Left Winger|WSH|31|24|Canada|2001|22|2019|WSH|863333|2019|5|5|Healthy
+Aliaksei|Protas|Right Winger|WSH|31|21|Belarus|2001|22|2019|WSH|789167|2019|5|5|Healthy
+Matthew|Phillips|Right Winger|WSH|31|45|Canada|1998|25|2016|CGY|775000|2023|1|1|Healthy
+Beck|Malenstyn|Center|WSH|31|47|Canada|1998|25|2016|WSH|762500|2022|2|2|Healthy
+John|Carlson|Right Defense|WSH|31|74|United States|1990|33|2008|WSH|2018|6|8|Healthy
+Nick|Jensen|Right Defense|WSH|31|3|United States|1990|33|2009|DET|4050000|2023|1|3|Healthy
+Trevor|van Riemsdyk|Right Defense|WSH|31|57|United States|1991|32|NULL|NULL|3000000|2023|1|3|Healthy
+Martin|Fehérváry|Left Defense|WSH|31|42|Slovakia|1999|24|2018|WSH|2675000|2023|1|3|Healthy
+Joel|Edmundson|Left Defense|WSH|31|6|Canada|1993|30|2011|STL|3500000|2020|4|4|Healthy
+Rasmus|Sandin|Left Defense|WSH|31|38|Sweden|2000|23|2018|TOR|1400000|2022|2|2|Healthy
+Alexander|Alexeyev|Left Defense|WSH|31|27|Russia|1999|24|2018|WSH|825000|2023|1|2|Healthy
+Lucas|Johansen|Left Defense|WSH|31|46|Canada|1997|26|2016|WSH|762500|2022|2|2|Healthy
+Darcy|Kuemper|Goalie|WSH|31|35|Canada|1990|33|2009|MIN|5250000|2022|2|5|Healthy
+Charlie|Lindgren|Goalie|WSH|31|79|United States|1993|29|NULL|NULL|1100000|2022|2|3|Healthy
+T.J.|Oshie|Right Winger|WSH|31|77|United States|1986|36|2005|STL|5750000|2017|7|8|IR
+Nicklas|Bäckström|Center|WSH|31|19|Sweden|1987|36|2006|WSH|9200000|2020|4|5|LTIR
+Max|Pacioretty|Left Winger|WSH|31|67|United States|1988|35|2007|MTL|2000000|2023|1|1|LTIR
+Jonathan|Huberdeau|Left Winger|CGY|5|10|Canada|1993|30|2011|FLA|10500000|2023|8|8|Healthy
+Nazem|Kadri|Center|CGY|5|91|Canada|1990|33|2009|TOR|7000000|2023|6|7|Healthy
+Andrew|Mangiapane|Right Winger|CGY|5|88|Canada|1996|27|2015|CGY|5800000|2023|2|2|Healthy
+Mikael|Backlund|Center|CGY|5|11|Sweden|1989|34|2007|CGY|5350000|2023|3|6|Healthy
+Blake|Coleman|Right Winger|CGY|5|20|United States|1991|32|2011|NJD|4900000|2023|4|4|Healthy
+Elias|Lindholm|Center|CGY|5|28|Sweden|1994|29|2013|CAR|4850000|2023|1|1|Healthy
+Yegor|Sharangovich|Left Winger|CGY|5|17|Belarus|1998|25|2018|NJD|3100000|2023|2|2|Healthy
+Dillon|Dubé|Center|CGY|5|29|Canada|1998|25|2016|CGY|2300000|2023|1|1|Healthy
+Connor|Zary|Center|CGY|5|24|Canada|2001|22|2020|CGY|863333|2023|2|3|Healthy
+Walker|Duehr|Right Winger|CGY|5|44|United States|1996|27|NULL|NULL|825000|2023|2|2|Healthy
+Martin|Pospisil|Right Winger|CGY|5|61|Slovakia|1999|24|2018|CGY|775000|2023|1|1|Healthy
+AJ|Greer|Right Winger|CGY|5|42|Canada|1996|27|2015|COL|762500|2023|1|1|Healthy
+Adam|Ruzicka|Left Winger|CGY|5|63|Slovakia|1999|24|2017|CGY|762500|2023|1|1|Healthy
+MacKenzie|Weegar|Left Defense|CGY|5|52|Canada|1994|29|2013|FLA|6250000|2023|8|8|Healthy
+Noah|Hanifin|Left Defense|CGY|5|55|United States|1997|26|2015|CAR|4950000|2023|1|1|Healthy
+Rasmus|Andersson|Right Defense|CGY|5|4|Sweden|1996|27|2015|CGY|4550000|2023|3|3|Healthy
+Christopher|Tanev|Right Defense|CGY|5|8|Canada|1989|34|NULL|NULL|4500000|2023|1|1|Healthy
+Jordan|Oesterle|Left Defense|CGY|5|82|United States|1992|31|2011|EDM|925000|2023|1|1|Healthy
+Ilya|Solovyov|Left Defense|CGY|5|45|Belarus|2000|23|2020|CGY|828333|2023|1|1|Healthy
+Dennis|Gilbert|Left Defense|CGY|5|39|United States|1997|26|2015|CHI|762500|2023|1|1|Healthy
+Jacob|Markström|Goalie|CGY|5|25|Sweden|1990|33|2008|FLA|6000000|2023|3|3|Healthy
+Daniel|Vladar|Goalie|CGY|5|80|Czech Republic|1997|26|2015|BOS|2200000|2023|2|2|Healthy
+Jérémie|Poirier|Left Defense|CGY|5|58|Canada|2002|21|2020|CGY|0|2023|1|1|LTIR
+Connor|McDavid|Center|EDM|12|97|Canada|1997|26|2015|EDM|12500000|2023|3|3|Healthy
+Leon|Draisaitl|Center|EDM|12|29|Germany|1995|28|2014|EDM|8500000|2023|2|2|Healthy
+Zach|Hyman|Right Winger|EDM|12|18|Canada|1992|31|2010|FLA|5500000|2023|5|5|Healthy
+Evander|Kane|Left Winger|EDM|12|91|Canada|1991|32|2009|ATL|5125000|2023|3|3|Healthy
+Ryan|Nugent-Hopkins|Left Winger|EDM|12|93|Canada|1993|30|2011|EDM|5125000|2023|6|6|Healthy
+Warren|Foegele|Left Winger|EDM|12|37|Canada|1996|27|2014|CAR|2750000|2023|1|1|Healthy
+Ryan|McLeod|Center|EDM|12|71|Canada|1999|24|2018|EDM|2100000|2023|2|2|Healthy
+Mattias|Janmark|Left Winger|EDM|12|26|Sweden|1992|31|2013|DAL|1000000|2023|1|1|Healthy
+Derek|Ryan|Center|EDM|12|10|United States|1986|37|NULL|NULL|900000|2023|2|2|Healthy
+James|Hamblin|Right Winger|EDM|12|17|Canada|1999|24|NULL|NULL|807500|2023|1|1|Healthy
+Connor|Brown|Right Winger|EDM|12|28|Canada|1994|29|2012|OTT|775000|2023|1|1|Healthy
+Adam|Erne|Left Winger|EDM|12|73|United States|1995|28|2013|TBL|775000|2023|1|1|Healthy
+Sam|Gagner|Right Winger|EDM|12|89|Canada|1989|34|2007|EDM|775000|2023|1|1|Healthy
+Darnell|Nurse|Left Defense|EDM|12|25|Canada|1995|28|2013|EDM|9250000|2023|7|7|Healthy
+Mattias|Ekholm|Left Defense|EDM|12|14|Sweden|1990|33|2009|NSH|6000000|2023|3|3|Healthy
+Evan|Bouchard|Right Defense|EDM|12|2|Canada|1999|24|2018|EDM|3900000|2023|2|2|Healthy
+Cody|Ceci|Right Defense|EDM|12|5|Canada|1994|29|2012|OTT|3250000|2023|2|2|Healthy
+Brett|Kulak|Left Defense|EDM|12|27|Canada|1994|29|2012|MTL|2750000|2023|3|3|Healthy
+Philip|Broberg|Left Defense|EDM|12|86|Sweden|2001|22|2019|EDM|863333|2023|1|1|Healthy
+Vincent|Desharnais|Right Defense|EDM|12|72|Canada|1996|27|NULL|NULL|762500|2023|1|1|Healthy
+Stuart|Skinner|Goalie|EDM|12|74|Canada|1998|25|2017|EDM|2600000|2023|3|3|Healthy
+Calvin|Pickard|Goalie|EDM|12|30|Canada|1992|31|2010|COL|762500|2023|1|1|Healthy
+Dylan|Holloway|Left Winger|EDM|12|55|Canada|2001|22|2020|EDM|925000|2023|1|1|LTIR
+Anze|Kopitar|Center|LAK|14|11|Slovenia|1987|36|2005|LAK|10000000|2023|3|3|Healthy
+Pierre-Luc|Dubois|Center|LAK|14|10|Canada|1998|25|2016|CBJ|8500000|2023|8|8|Healthy
+Kevin|Fiala|Right Winger|LAK|14|22|Switzerland|1996|27|2014|NSH|7875000|2023|6|7|Healthy
+Phillip|Danault|Center|LAK|14|24|Canada|1993|30|2011|CHI|5500000|2023|4|4|Healthy
+Adrian|Kempe|Left Winger|LAK|14|9|Sweden|1996|27|2014|LAK|5500000|2023|3|3|Healthy
+Trevor|Moore|Left Winger|LAK|14|12|United States|1995|28|NULL|NULL|4200000|2023|5|5|Healthy
+Blake|Lizotte|Center|LAK|14|46|United States|1997|26|NULL|NULL|1675000|2023|1|1|Healthy
+Carl|Grundström|Left Winger|LAK|14|38|Sweden|1997|26|2016|TOR|1300000|2023|1|1|Healthy
+Quinton|Byfield|Center|LAK|14|55|Canada|2002|21|2020|LAK|894167|2023|1|1|Healthy
+Arthur|Kaliyev|Right Winger|LAK|14|34|United States|2001|22|2019|LAK|894167|2023|1|1|Healthy
+Alex|Laferriere|Right Winger|LAK|14|19|United States|2001|22|2020|LAK|875000|2023|2|2|Healthy
+Jaret|Anderson-Dolan|Center|LAK|14|28|Canada|1999|24|2017|LAK|775000|2023|1|1|Healthy
+Trevor|Lewis|Right Winger|LAK|14|22|United States|1987|36|2006|LAK|775000|2023|1|1|Healthy
+Drew|Doughty|Right Defense|LAK|14|8|Canada|1989|34|2008|LAK|11000000|2023|4|4|Healthy
+Vladislav|Gavrikov|Left Defense|LAK|14|14|Russia|1995|28|2015|CBJ|5875000|2023|2|2|Healthy
+Michael|Anderson|Left Defense|LAK|14|44|United States|1998|25|2017|LAK|4125000|2023|8|8|Healthy
+Matt|Roy|Right Defense|LAK|14|3|United States|1995|28|2015|LAK|3150000|2023|1|1|Healthy
+Andreas|Englund|Left Defense|LAK|14|39|Sweden|1996|27|2014|OTT|1000000|2023|2|2|Healthy
+Jordan|Spence|Right Defense|LAK|14|50|Canada|2001|22|2019|LAK|820000|2023|1|1|Healthy
+Tobias|Björnfot|Left Defense|LAK|14|33|Sweden|2001|22|2019|LAK|775000|2023|2|2|Healthy
+Pheonix|Copley|Goalie|LAK|14|29|United States|1992|31|NULL|NULL|1500000|2023|1|1|Healthy
+Cam|Talbot|Goalie|LAK|14|33|Canada|1987|36|NULL|NULL|1000000|2023|1|1|Healthy
+Viktor|Arvidsson|Right Winger|LAK|14|33|Sweden|1993|30|2014|NSH|4250000|2023|1|1|LTIR
+Logan|Couture|Center|SJS|24|39|Canada|1989|34|2007|SJS|8000000|2023|4|8|IR
+Jan|Rutta|Left Defense|SJS|24|44|Czech Republic|1989|34|2013|TBL|2750000|2023|2|2|IR
+Alexander|Barabanov|Right Winger|SJS|24|94|Russia|1994|29|NULL|NULL|2500000|2023|1|1|IR
+Oskar|Lindblom|Left Winger|SJS|24|23|Sweden|1996|27|2014|PHI|2500000|2023|1|1|IR
+Filip|Zadina|Right Winger|SJS|24|11|Czech Republic|1999|24|2018|DET|1100000|2023|1|1|IR
+Marc-Edouard|Vlasic|Left Defense|SJS|24|44|Canada|1987|36|2005|SJS|7000000|2023|3|3|Healthy
+Mario|Ferraro|Left Defense|SJS|24|38|Canada|1998|25|2017|SJS|3250000|2023|3|3|Healthy
+Matthew|Benning|Right Defense|SJS|24|5|Canada|1994|29|2012|BOS|1250000|2023|3|3|Healthy
+Nikolai|Knyzhov|Left Defense|SJS|24|71|Russia|1998|25|NULL|NULL|1250000|2023|2|2|Healthy
+Kyle|Burroughs|Left Defense|SJS|24|88|Canada|1995|28|2013|NYI|1100000|2023|3|3|Healthy
+Calen|Addison|Right Defense|SJS|24|59|Canada|2000|23|2018|PIT|825000|2023|1|1|Healthy
+Nikita|Okhotiuk|Left Defense|SJS|24|67|Russia|2000|23|2019|NJD|789167|2023|1|1|Healthy
+Ty|Emberson|Right Defense|SJS|24|22|United States|2000|23|2018|ARI|775000|2023|1|1|Healthy
+Jacob|MacDonald|Left Defense|SJS|24|26|Canada|1993|30|NULL|NULL|762500|2023|1|1|Healthy
+Kaapo|Kahkonen|Goalie|SJS|24|34|Finland|1996|27|2014|MIN|2750000|2023|1|1|Healthy
+Mackenzie|Blackwood|Goalie|SJS|24|29|Canada|1996|27|2015|NJD|2350000|2023|2|2|Healthy
+Jordan|Eberle|Right Winger|SEA|25|7|Canada|1990|33|2008|EDM|5500000|2023|1|1|Healthy
+Oliver|Bjorkstrand|Right Winger|SEA|25|28|Denmark|1995|28|2013|CBJ|5400000|2023|3|3|Healthy
+Yanni|Gourde|Center|SEA|25|37|Canada|1991|32|NULL|NULL|5166666|2023|2|2|Healthy
+Jared|McCann|Left Winger|SEA|25|19|Canada|1996|27|2014|VAN|5000000|2023|4|4|Healthy
+Alexander|Wennberg|Center|SEA|25|21|Sweden|1994|29|2013|CBJ|4500000|2023|1|1|Healthy
+Brandon|Tanev|Left Winger|SEA|25|13|Canada|1992|31|NULL|NULL|3500000|2023|2|2|Healthy
+Kailer|Yamamoto|Right Winger|SEA|25|17|United States|1998|25|2017|EDM|1500000|2023|1|1|Healthy
+Eeli|Tolvanen|Left Winger|SEA|25|11|Finland|1999|24|2017|NSH|1450000|2023|1|1|Healthy
+Matthew|Beniers|Center|SEA|25|10|United States|2003|20|2021|SEA|897500|2023|1|1|Healthy
+Tye|Kartye|Left Winger|SEA|25|62|Canada|2000|23|NULL|NULL|859167|2023|2|2|Healthy
+Pierre-Édouard|Bellemare|Center|SEA|25|41|France|1985|38|NULL|NULL|775000|2023|1|1|Healthy
+Marian|Studenic|Left Winger|SEA|25|16|Slovakia|1999|24|2017|NJD|775000|2023|1|1|Healthy
+Max|McCormick|Left Winger|SEA|25|26|United States|1992|31|2011|OTT|762500|2023|1|1|Healthy
+Vince|Dunn|Left Defense|SEA|25|29|Canada|1996|27|2015|STL|7350000|2023|4|4|Healthy
+Jamie|Oleksiak|Left Defense|SEA|25|24|Canada|1992|31|2011|DAL|4600000|2023|3|3|Healthy
+Adam|Larsson|Right Defense|SEA|25|6|Sweden|1992|31|2011|NJD|4000000|2023|2|2|Healthy
+Brian|Dumoulin|Left Defense|SEA|25|8|United States|1991|32|2009|CAR|3150000|2023|2|2|Healthy
+Justin|Schultz|Right Defense|SEA|25|4|Canada|1990|33|2012|EDM|3000000|2023|1|1|Healthy
+William|Borgen|Right Defense|SEA|25|3|United States|1996|27|2015|BUF|2700000|2023|2|2|Healthy
+Jaycob|Megna|Left Defense|SEA|25|2|United States|1992|31|2012|ANA|762500|2023|1|1|Healthy
+Philipp|Grubauer|Goalie|SEA|25|31|Germany|1991|32|2010|WSH|5900000|2023|4|4|Healthy
+Joey|Daccord|Goalie|SEA|25|35|Canada|1996|27|2015|OTT|1200000|2023|2|2|Healthy
+André|Burakovsky|Right Winger|SEA|25|95|Sweden|1995|28|2013|WSH|5500000|2023|4|4|IR
+Jaden|Schwartz|Left Winger|SEA|25|17|Canada|1992|31|2010|STL|5500000|2023|3|3|IR
+J.T.|Miller|Center|VAN|29|10|United States|1993|30|2011|NYR|8000000|2023|4|7|Healthy
+Elias|Pettersson|Center|VAN|29|40|Sweden|1998|25|2017|VAN|7350000|2023|1|1|Healthy
+Brock|Boeser|Right Winger|VAN|29|6|United States|1997|26|2015|VAN|6650000|2023|2|2|Healthy
+Andrei|Kuzmenko|Left Winger|VAN|29|96|Russia|1996|27|NULL|NULL|5500000|2023|1|1|Healthy
+Conor|Garland|Right Winger|VAN|29|8|United States|1996|27|2015|ARI|4950000|2023|2|2|Healthy
+Ilya|Mikheyev|Left Winger|VAN|29|65|Russia|1994|29|NULL|NULL|4750000|2023|2|2|Healthy
+Teddy|Blueger|Center|VAN|29|53|Latvia|1994|29|2012|PIT|1900000|2023|1|1|Healthy
+Sam|Lafferty|Right Winger|VAN|29|24|United States|1995|28|2014|PIT|1150000|2023|1|1|Healthy
+Nils|Hoglander|Left Winger|VAN|29|21|Sweden|2000|23|2019|VAN|1100000|2023|1|1|Healthy
+Nils|Aman|Center|VAN|29|26|Sweden|1999|24|2019|VAN|883750|2023|1|1|Healthy
+Linus|Karlsson|Right Winger|VAN|29|62|Sweden|1999|24|2018|SJS|883750|2023|1|1|Healthy
+Dakota|Joshua|Left Winger|VAN|29|15|Canada|1996|27|2014|TOR|825000|2023|1|1|Healthy
+Phillip|Di Giuseppe|Left Winger|VAN|29|34|Canada|1993|30|2012|CAR|775000|2023|1|1|Healthy
+Quinn|Hughes|Left Defense|VAN|29|43|United States|1999|24|2018|VAN|7850000|2023|2|4|Healthy
+Tyler|Myers|Right Defense|VAN|29|57|Canada|1990|33|2008|BUF|6000000|2023|1|1|Healthy
+Filip|Hronek|Right Defense|VAN|29|17|Czech Republic|1997|26|2016|DET|4400000|2023|1|1|Healthy
+Nikita|Zadorov|Left Defense|VAN|29|16|Russia|1995|28|2013|BUF|3750000|2023|1|1|Healthy
+Ian|Cole|Left Defense|VAN|29|28|United States|1989|34|2007|STL|3000000|2023|1|1|Healthy
+Mark|Friedman|Left Defense|VAN|29|25|Canada|1995|28|2014|LAK|775000|2023|1|1|Healthy
+Noah|Juulsen|Right Defense|VAN|29|8|Canada|1997|26|2015|FLA|775000|2023|1|1|Healthy
+Thatcher|Demko|Goalie|VAN|29|35|United States|1995|28|2014|VAN|5000000|2023|1|1|Healthy
+Casey|DeSmith|Goalie|VAN|29|1|United States|1991|32|NULL|NULL|1800000|2023|1|1|Healthy
+Pius|Suter|Center|VAN|29|96|Switzerland|1996|27|NULL|NULL|1600000|2023|1|1|IR
+Carson|Soucy|Left Defense|VAN|29|28|Canada|1994|29|2013|MIN|3250000|2023|2|2|LTIR
+Tucker|Poolman|Right Defense|VAN|29|3|United States|1993|30|NULL|NULL|2500000|2023|1|1|LTIR
+Guillaume|Brisebois|Left Defense|VAN|29|55|Canada|1997|26|2015|VAN|775000|2023|1|1|LTIR
+Tyler|Johnson|Right Winger|CHI|7|90|United States|1990|33|2011|TBL|5000000|2023|2|2|Healthy
+Anthony|Beauvillier|Left Winger|CHI|7|18|Canada|1997|26|2015|NYI|4150000|2023|2|2|Healthy
+Nick|Foligno|Left Winger|CHI|7|71|United States|1987|36|2006|OTT|4000000|2023|2|2|Healthy
+Jason|Dickinson|Center|CHI|7|18|Canada|1995|28|2013|DAL|2650000|2023|2|2|Healthy
+Philipp|Kurashev|Center|CHI|7|23|Switzerland|1999|24|2018|CHI|2250000|2023|1|1|Healthy
+Ryan|Donato|Center|CHI|7|9|United States|1996|27|2014|BOS|2000000|2023|2|2|Healthy
+Connor|Bedard|Center|CHI|7|98|Canada|2005|18|2023|CHI|950000|2023|3|3|Healthy
+Cole|Guttman|Center|CHI|7|18|United States|1999|24|2017|TBL|950000|2023|1|1|Healthy
+Lukas|Reichel|Left Winger|CHI|7|27|Germany|2002|21|2020|CHI|925000|2023|2|2|Healthy
+Mackenzie|Entwistle|Center|CHI|7|58|Canada|1999|24|2017|ARI|800000|2023|1|1|Healthy
+Reese|Johnson|Right Winger|CHI|7|52|Canada|1998|25|2018|CHI|800000|2023|1|1|Healthy
+Joey|Anderson|Right Winger|CHI|7|28|United States|1998|25|2016|NJD|800000|2023|1|1|Healthy
+Boris|Katchouk|Left Winger|CHI|7|12|Canada|1998|25|2016|TBL|758333|2023|1|1|Healthy
+Taylor|Raddysh|Right Winger|CHI|7|11|Canada|1998|25|2016|TBL|758333|2023|1|1|Healthy
+Seth|Jones|Right Defense|CHI|7|4|United States|1994|29|2013|NSH|9500000|2023|7|7|Healthy
+Nikita|Zaitsev|Right Defense|CHI|7|22|Russia|1991|32|2016|OTT|4500000|2023|1|1|Healthy
+Connor|Murphy|Right Defense|CHI|7|5|United States|1993|30|2011|PHX|4400000|2023|3|3|Healthy
+Kevin|Korchinski|Left Defense|CHI|7|86|Canada|2004|19|2022|CHI|918333|2023|3|3|Healthy
+Wyatt|Kaiser|Left Defense|CHI|7|56|United States|2002|21|2020|CHI|916667|2023|2|2|Healthy
+Alex|Vlasic|Left Defense|CHI|7|43|United States|2001|22|2019|CHI|916667|2023|1|1|Healthy
+Isaak|Phillips|Left Defense|CHI|7|25|Canada|2001|22|2020|CHI|859167|2023|1|1|Healthy
+Petr|Mrázek|Goalie|CHI|7|34|Czech Republic|1992|31|2010|DET|3800000|2023|1|1|Healthy
+Arvid|Söderblom|Goalie|CHI|7|40|Sweden|1999|24|2021|CHI|962500|2023|2|2|Healthy
+Taylor|Hall|Left Winger|CHI|7|91|Canada|1991|32|2010|EDM|6000000|2023|2|2|IR
+Andreas|Athanasiou|Left Winger|CHI|7|89|Canada|1994|29|2012|DET|4250000|2023|2|2|IR
+Jarred|Tinordi|Left Defense|CHI|7|28|United States|1992|31|2010|MTL|1250000|2023|1|1|IR
+Colin|Blackwell|Center|CHI|7|43|United States|1993|30|2011|SJS|1200000|2023|1|1|IR
+Nathan|MacKinnon|Center|COL|8|29|Canada|1995|28|2013|COL|12600000|2023|8|8|Healthy
+Mikko|Rantanen|Right Winger|COL|8|96|Finland|1996|27|2015|COL|9250000|2023|2|2|Healthy
+Valeri|Nichushkin|Right Winger|COL|8|13|Russia|1995|28|2013|DAL|6125000|2023|7|7|Healthy
+Ryan|Johansen|Center|COL|8|92|Canada|1992|31|2010|CBJ|4000000|2023|2|2|Healthy
+Ross|Colton|Left Winger|COL|8|79|United States|1996|27|NULL|NULL|4000000|2023|4|4|Healthy
+Miles|Wood|Left Winger|COL|8|44|United States|1995|28|2013|NJD|2500000|2023|6|6|Healthy
+Tomas|Tatar|Left Winger|COL|8|90|Slovakia|1990|33|2009|DET|1500000|2023|1|1|Healthy
+Logan|O'Connor|Right Winger|COL|8|25|Canada|1996|27|NULL|NULL|1050000|2023|2|2|Healthy
+Andrew|Cogliano|Left Winger|COL|8|11|Canada|1987|36|2005|EDM|825000|2023|1|1|Healthy
+Jonathan|Drouin|Center|COL|8|28|Canada|1995|28|2013|TBL|825000|2023|1|1|Healthy
+Joel|Kiviranta|Right Winger|COL|8|25|Finland|1996|27|NULL|NULL|775000|2023|1|1|Healthy
+Fredrik|Olofsson|Left Winger|COL|8|29|Sweden|1996|27|2014|CHI|775000|2023|1|1|Healthy
+Cale|Makar|Right Defense|COL|8|8|Canada|1998|25|2017|COL|9000000|2023|4|4|Healthy
+Josh|Manson|Right Defense|COL|8|42|Canada|1991|32|2011|ANA|4500000|2023|3|3|Healthy
+Devon|Toews|Left Defense|COL|8|7|Canada|1994|29|2014|NYI|4100000|2023|8|8|Healthy
+Bowen|Byram|Left Defense|COL|8|4|Canada|2001|22|2019|COL|3850000|2023|2|2|Healthy
+Kurtis|MacDermid|Left Defense|COL|8|56|Canada|1994|29|NULL|NULL|987500|2023|1|1|Healthy
+Sam|Malinski|Right Defense|COL|8|88|United States|1998|25|NULL|NULL|850000|2023|2|2|Healthy
+Jack|Johnson|Left Defense|COL|8|3|United States|1987|36|2005|CAR|775000|2023|1|1|Healthy
+Caleb|Jones|Left Defense|COL|8|82|United States|1997|26|2015|EDM|775000|2023|1|1|Healthy
+Alexandar|Georgiev|Goalie|COL|8|40|Bulgaria|1995|28|NULL|NULL|3400000|2023|2|2|Healthy
+Ivan|Prosvetov|Goalie|COL|8|50|Russia|1999|24|2018|ARI|775000|2023|1|1|Healthy
+Gabriel|Landeskog|Left Winger|COL|8|92|Sweden|1992|31|2011|COL|7000000|2023|6|6|LTIR
+Artturi|Lehkonen|Left Winger|COL|8|62|Finland|1995|28|2013|MTL|4500000|2023|4|4|LTIR
+PavelFrancouz|Goalie|COL|8|39|Czech Republic|1990|33|NULL|NULL|2000000|2023|1|1|LTIR
+Tyler|Seguin|Center|DAL|10|91|Canada|1992|31|2010|BOS|9850000|2023|4|4|Healthy
+Jamie|Benn|Left Winger|DAL|10|14|Canada|1989|34|2007|DAL|9500000|2023|2|2|Healthy
+Roope|Hintz|Center|DAL|10|24|Finland|1996|27|2015|DAL|8450000|2023|8|8|Healthy
+Jason|Robertson|Left Winger|DAL|10|21|United States|1999|24|2017|DAL|7750000|2023|3|3|Healthy
+Mason|Marchment|Left Winger|DAL|10|27|Canada|1995|28|NULL|NULL|4500000|2023|3|3|Healthy
+Joe|Pavelski|Right Winger|DAL|10|16|United States|1984|39|2003|SJS|3500000|2023|1|1|Healthy
+Radek|Faksa|Center|DAL|10|12|Czech Republic|1994|29|2012|DAL|3250000|2023|2|2|Healthy
+Matt|Duchene|Right Winger|DAL|10|95|Canada|1991|32|2009|COL|3000000|2023|1|1|Healthy
+Evgeni|Dadonov|Right Winger|DAL|10|63|Russia|1989|34|2007|FLA|2250000|2023|2|2|Healthy
+Craig|Smith|Right Winger|DAL|10|15|United States|1989|34|2009|NSH|1000000|2023|1|1|Healthy
+Ty|Dellandrea|Right Winger|DAL|10|10|Canada|2000|23|2018|DAL|900000|2023|1|1|Healthy
+Wyatt|Johnston|Center|DAL|10|53|Canada|2003|20|2021|DAL|894167|2023|2|2|Healthy
+Sam|Steel|Center|DAL|10|23|Canada|1998|25|2016|ANA|850000|2023|1|1|Healthy
+Miro|Heiskanen|Left Defense|DAL|10|4|Finland|1999|24|2017|DAL|8450000|2023|6|6|Healthy
+Esa|Lindell|Left Defense|DAL|10|23|Finland|1994|29|2012|DAL|5800000|2023|2|2|Healthy
+Ryan|Suter|Left Defense|DAL|10|20|United States|1985|38|2003|NSH|3650000|2023|2|2|Healthy
+Jani|Hakanpää|Right Defense|DAL|10|58|Finland|1992|31|2010|STL|1500000|2023|1|1|Healthy
+Nils|Lundkvist|Right Defense|DAL|10|5|Sweden|2000|23|2018|NYR|925000|2023|1|1|Healthy
+Thomas|Harley|Left Defense|DAL|10|55|Canada|2001|22|2019|DAL|863333|2023|1|1|Healthy
+Joel|Hanley|Left Defense|DAL|10|44|Canada|1991|32|NULL|NULL|787500|2023|2|2|Healthy
+Jake|Oettinger|Goalie|DAL|10|29|United States|1998|25|2017|DAL|4000000|2023|2|2|Healthy
+Scott|Wedgewood|Goalie|DAL|10|41|Canada|1992|31|2010|NJD|1000000|2023|1|1|Healthy
+Kirill|Kaprizov|Left Winger|MIN|15|97|Russia|1997|26|2015|MIN|9000000|2023|3|3|Healthy
+Matthew|Boldy|Right Winger|MIN|15|12|United States|2001|22|2019|MIN|7000000|2023|7|7|Healthy
+Mats|Zuccarello|Right Winger|MIN|15|36|Norway|1987|36|NULL|NULL|6000000|2023|3|3|Healthy
+Joel|Eriksson Ek|Center|MIN|15|14|Sweden|1997|26|2015|MIN|5250000|2023|6|6|Healthy
+Marcus|Foligno|Right Winger|MIN|15|17|United States|1991|32|2009|BUF|3100000|2023|5|5|Healthy
+Frédérick|Gaudreau|Center|MIN|15|89|Canada|1993|30|NULL|NULL|2100000|2023|5|5|Healthy
+Marcus|Johansson|Left Winger|MIN|15|90|Sweden|1990|33|2009|WSH|2000000|2023|2|2|Healthy
+Ryan|Hartman|Center|MIN|15|38|United States|1994|29|2013|CHI|1700000|2023|4|4|Healthy
+Brandon|Duhaime|Right Winger|MIN|15|21|United States|1997|26|2016|FLA|1100000|2023|1|1|Healthy
+Marco|Rossi|Center|MIN|15|23|Austria|2001|22|2020|MIN|863333|2023|2|2|Healthy
+Connor|Dewar|Left Winger|MIN|15|43|Canada|1999|24|2018|MIN|800000|2023|1|1|Healthy
+Patrick|Maroon|Left Winger|MIN|15|14|United States|1988|35|NULL|NULL|800000|2023|1|1|Healthy
+Vinni|Lettieri|Center|MIN|15|11|United States|1995|28|NULL|NULL|775000|2023|2|2|Healthy
+Jared|Spurgeon|Right Defense|MIN|15|46|Canada|1989|34|2008|MIN|7575000|2023|4|4|Healthy
+Jonas|Brodin|Left Defense|MIN|15|25|Sweden|1993|30|2011|MIN|6000000|2023|5|5|Healthy
+Jake|Middleton|Left Defense|MIN|15|5|Canada|1996|27|2014|LAK|2450000|2023|2|2|Healthy
+Alex|Goligoski|Left Defense|MIN|15|47|United States|1985|38|2004|PIT|2000000|2023|1|1|Healthy
+Jon|Merrill|Left Defense|MIN|15|4|United States|1992|31|2010|NJD|1200000|2023|2|2|Healthy
+Brock|Faber|Right Defense|MIN|15|8|United States|2002|21|NULL|NULL|925000|2023|2|2|Healthy
+Zach|Bogosian|Right Defense|MIN|15|24|United States|1990|33|2008|ATL|850000|2023|1|1|Healthy
+Filip|Gustavsson|Goalie|MIN|15|32|Sweden|1998|25|2016|PIT|3750000|2023|3|3|Healthy
+Marc-André|Fleury|Goalie|MIN|15|29|Canada|1984|39|2003|PIT|3500000|2023|1|1|Healthy
+Filip|Forsberg|Left Winger|NSH|17|9|Sweden|1994|29|2012|WSH|8500000|2023|7|7|Healthy
+Ryan|O'Reilly|Center|NSH|17|90|Canada|1991|32|2009|COL|4500000|2023|4|4|Healthy
+Gustav|Nyquist|Left Winger|NSH|17|14|Sweden|1989|34|2011|DET|3185000|2023|2|2|Healthy
+Colton|Sissons|Center|NSH|17|10|Canada|1993|30|2012|NSH|2857143|2023|3|3|Healthy
+Yakov|Trenin|Left Winger|NSH|17|13|Russia|1997|26|2015|NSH|1700000|2023|1|1|Healthy
+Philip|Tomasino|Left Winger|NSH|17|26|Canada|2001|22|2019|NSH|863333|2023|1|1|Healthy
+Juuso|Pärssinen|Center|NSH|17|32|Finland|2001|22|2019|NSH|850833|2023|1|1|Healthy
+Luke|Evangelista|Right Winger|NSH|17|16|Canada|2002|21|2020|NSH|797500|2023|2|2|Healthy
+Michael|McCarron|Right Winger|NSH|17|47|United States|1995|28|2013|MTL|775000|2023|1|1|Healthy
+Kiefer|Sherwood|Left Winger|NSH|17|44|United States|1995|28|NULL|NULL|775000|2023|1|1|Healthy
+Cole|Smith|Right Winger|NSH|17|55|United States|1995|28|NULL|NULL|775000|2023|1|1|Healthy
+Liam|Foudy|Left Winger|NSH|17|29|Canada|2000|23|2018|CBJ|762500|2023|1|1|Healthy
+Roman|Josi|Left Defense|NSH|17|59|Switzerland|1990|33|2008|NSH|9059000|2023|5|5|Healthy
+Ryan|McDonagh|Left Defense|NSH|17|27|United States|1989|34|2007|MTL|6750000|2023|3|3|Healthy
+Tyson|Barrie|Right Defense|NSH|17|22|Canada|1991|32|2009|COL|4500000|2023|1|1|Healthy
+Luke|Schenn|Right Defense|NSH|17|2|Canada|1989|34|2008|TOR|2750000|2023|3|3|Healthy
+Alexandre|Carrier|Right Defense|NSH|17|45|Canada|1996|27|2015|NSH|2500000|2023|1|1|Healthy
+Dante|Fabbro|Right Defense|NSH|17|57|Canada|1998|25|2016|NSH|2500000|2023|1|1|Healthy
+Jérémy|Lauzon|Left Defense|NSH|17|55|Canada|1997|26|2015|BOS|2000000|2023|3|3|Healthy
+Spencer|Stastney|Left Defense|NSH|17|76|United States|2000|23|2018|NSH|925000|2023|1|1|Healthy
+Juuse|Saros|Goalie|NSH|17|74|Finland|1995|28|2013|NSH|5000000|2023|2|2|Healthy
+Kevin|Lankinen|Goalie|NSH|17|32|Finland|1995|28|NULL|NULL|2000000|2023|1|1|Healthy
+Cody|Glass|Center|NSH|17|8|Canada|1999|24|2017|VGK|2500000|2023|2|2|IR
+Thomas|Novak|Center|NSH|17|71|United States|1997|26|2015|NSH|800000|2023|1|1|IR
+Jordan|Kyrou|Right Winger|STL|26|25|Canada|1998|25|2016|STL|8125000|2023|8|8|Healthy
+Robert|Thomas|Center|STL|26|18|Canada|1999|24|2017|STL|8125000|2023|8|8|Healthy
+Brayden|Schenn|Center|STL|26|10|Canada|1991|32|2009|LAK|6500000|2023|5|5|Healthy
+Pavel|Buchnevich|Left Winger|STL|26|89|Russia|1995|28|2013|NYR|5800000|2023|2|2|Healthy
+Brandon|Saad|Left Winger|STL|26|20|United States|1992|31|2011|CHI|4500000|2023|3|3|Healthy
+Kevin|Hayes|Center|STL|26|13|United States|1992|31|2010|CHI|3571429|2023|3|3|Healthy
+Kasperi|Kapanen|Right Winger|STL|26|42|Finland|1996|27|2014|PIT|3200000|2023|1|1|Healthy
+Jakub|Vrána|Left Winger|STL|26|13|Czech Republic|1996|27|2014|WSH|2625000|2023|1|1|Healthy
+Alexey|Toropchenko|Left Winger|STL|26|65|Russia|1999|24|2017|STL|1250000|2023|2|2|Healthy
+Samuel|Blais|Left Winger|STL|26|9|Canada|1996|27|2014|STL|1000000|2023|1|1|Healthy
+Jake|Neighbours|Left Winger|STL|26|63|Canada|2002|21|2020|STL|835833|2023|2|2|Healthy
+Nikita|Alexandrov|Center|STL|26|28|Germany|2000|23|2019|STL|816667|2023|1|1|Healthy
+Oskar|Sundqvist|Right Winger|STL|26|70|Sweden|1994|29|2012|PIT|775000|2023|1|1|Healthy
+Justin|Faulk|Right Defense|STL|26|72|United States|1992|31|2010|CAR|6500000|2023|4|4|Healthy
+Torey|Krug|Left Defense|STL|26|47|United States|1991|32|2012|BOS|6500000|2023|4|4|Healthy
+Colton|Parayko|Right Defense|STL|26|55|Canada|1993|30|2012|STL|6500000|2023|7|7|Healthy
+Nick|Leddy|Left Defense|STL|26|4|United States|1991|32|2009|CHI|4000000|2023|3|3|Healthy
+Marco|Scandella|Left Defense|STL|26|6|Canada|1990|33|2008|MIN|3275000|2023|1|1|Healthy
+Robert|Bortuzzo|Right Defense|STL|26|41|Canada|1989|34|2007|PIT|950000|2023|1|1|Healthy
+Tyler|Tucker|Left Defense|STL|26|75|Canada|2000|23|2018|STL|800000|2023|2|2|Healthy
+Scott|Perunovich|Left Defense|STL|26|48|United States|1998|25|2018|STL|775000|2023|1|1|Healthy
+Jordan|Binnington|Goalie|STL|26|50|Canada|1993|30|2011|STL|6000000|2023|4|4|Healthy
+Joel|Hofer|Goalie|STL|26|1|Canada|2000|23|2018|STL|775000|2023|2|2|Healthy
+Jeff|Skinner|Left Winger|BUF|4|53|Canada|1992|31|2010|CAR|9000000|2023|4|4|Healthy
+Dylan|Cozens|Center|BUF|4|24|Canada|2001|22|2019|BUF|7100000|2023|7|7|Healthy
+Victor|Olofsson|Right Winger|BUF|4|71|Sweden|1995|28|2014|BUF|4750000|2023|1|1|Healthy
+Alex|Tuch|Right Winger|BUF|4|89|United States|1996|27|2014|MIN|4750000|2023|3|3|Healthy
+Jordan|Greenway|Left Winger|BUF|4|18|United States|1997|26|2015|MIN|3000000|2023|2|2|IR
+Casey|Mittelstadt|Left Winger|BUF|4|37|United States|1998|25|2017|BUF|2500000|2023|1|1|Healthy
+Kyle|Okposo|Right Winger|BUF|4|21|United States|1988|35|2006|NYI|2500000|2023|1|1|Healthy
+Tyson|Jost|Center|BUF|4|17|Canada|1998|25|2016|COL|2000000|2023|1|1|Healthy
+Zach|Benson|Left Winger|BUF|4|59|Canada|2004|19|2022|BUF|950000|2023|3|3|Healthy
+Isak|Rosén|Right Winger|BUF|4|26|Sweden|2002|21|2020|BUF|894167|2023|3|3|Healthy
+Peyton|Krebs|Center|BUF|4|19|Canada|2001|22|2019|VGK|863333|2023|1|1|Healthy
+John-Jason|Peterka|Left Winger|BUF|4|34|Germany|2002|21|2020|BUF|855833|2023|2|2|Healthy
+Brandon|Biro|Left Winger|BUF|4|13|Canada|1998|25|NULL|NULL|762500|2023|1|1|Healthy
+Rasmus|Dahlin|Left Defense|BUF|4|26|Sweden|2000|23|2018|BUF|6000000|2023|9|9|Healthy
+Mattias|Samuelsson|Left Defense|BUF|4|23|United States|2000|23|2018|BUF|4285714|2023|7|7|Healthy
+Connor|Clifton|Right Defense|BUF|4|75|United States|1995|28|NULL|NULL|3333333|2023|3|3|Healthy
+Erik|Johnson|Right Defense|BUF|4|6|United States|1988|35|2006|STL|3250000|2023|1|1|Healthy
+Henri|Jokiharju|Right Defense|BUF|4|10|Finland|1999|24|2017|CHI|2500000|2023|1|1|Healthy
+Jacob|Bryson|Left Defense|BUF|4|78|United States|1997|26|2017|BUF|1850000|2023|1|1|Healthy
+Ryan|Johnson|Left Defense|BUF|4|33|United States|2001|22|2019|BUF|925000|2023|2|2|Healthy
+Owen|Power|Left Defense|BUF|4|25|Canada|2002|21|2021|BUF|916667|2023|8|8|Healthy
+Eric|Comrie|Goalie|BUF|4|31|Canada|1995|28|2013|WPG|1800000|2022|2|2|Healthy
+Ukko-Pekka|Luukkonen|Goalie|BUF|4|1|Finnland|1999|24|2017|BUF|837500|2022|2|2|Healthy
+Tage|Thompson|Center|BUF|4|72|United States|1997|26|2016|STL|7142857|2023|1|7|IR
+Zemgus|Girgensons|Left Winger|BUF|4|28|Latvia|1994|29|2012|BUF|2500000|2023|1|1|IR
+Jack|Quinn|Right Winger|BUF|4|22|Canada|2001|22|2020|BUF|863333|2021|4|5|IR
+Alex|DeBrincat|Left Winger|DET|11|12|United States|1997|26|2016|CHI|7875000|2023|4|4|Healthy
+Andrew|Copp|Center|DET|11|18|United States|1994|29|2013|WPG|5625000|2023|4|4|Healthy
+J.T.|Compher|Center|DET|11|37|United States|1995|28|2013|BUF|5100000|2023|5|5|Healthy
+David|Perron|Right Winger|DET|11|57|Canada|1988|35|2007|STL|4750000|2023|1|1|Healthy
+Robby|Fabbri|Left Winger|DET|11|14|Canada|1996|27|2014|STL|4000000|2023|2|2|Healthy
+Patrick|Kane|Right Winger|DET|11|88|United States|1988|35|2007|CHI|2750000|2023|1|1|Healthy
+Klim|Kostin|Left Winger|DET|11|37|Russia|1999|24|2017|STL|2000000|2023|2|2|Healthy
+Daniel|Sprong|Right Winger|DET|11|11|Netherlands|1997|26|2015|ANA|2000000|2023|1|1|Healthy
+Michael|Rasmussen|Center|DET|11|27|Canada|1999|24|2017|DET|1460000|2023|1|1|Healthy
+Christian|Fischer|Right Winger|DET|11|36|United States|1997|26|2015|ARI|1125000|2023|1|1|Healthy
+Lucas|Raymond|Right Winger|DET|11|23|Sweden|2002|21|2020|DET|925000|2023|1|1|Healthy
+Joseph|Veleno|Center|DET|11|90|Canada|2000|23|2018|DET|825000|2023|1|1|Healthy
+Ben|Chiarot|Left Defense|DET|11|8|Canada|1991|32|2009|ATL|4750000|2023|3|3|Healthy
+Shayne|Gostisbehere|Left Defense|DET|11|14|United States|1993|30|2012|PHI|4125000|2023|1|1|Healthy
+Justin|Holl|Right Defense|DET|11|3|Canada|1992|31|2010|CHI|3400000|2023|3|3|Healthy
+Jake|Walman|Left Defense|DET|11|6|Canada|1996|27|2014|STL|3400000|2023|3|3|Healthy
+Olli|Määttä|Left Defense|DET|11|2|Finland|1994|29|2012|PIT|3000000|2023|2|2|Healthy
+Jeff|Petry|Right Defense|DET|11|26|United States|1987|36|2006|EDM|2343750|2023|2|2|Healthy
+Moritz|Seider|Right Defense|DET|11|53|Germany|2001|22|2019|DET|863333|2023|1|1|Healthy
+Ville|Husso|Goalie|DET|11|35|Finland|1995|28|2014|STL|4750000|2023|2|2|Healthy
+James|Reimer|Goalie|DET|11|47|Canada|1988|35|2006|SJS|1500000|2023|1|1|Healthy
+Alex|Lyon|Goalie|DET|11|34|United States|1992|31|NULL|NULL|900000|2023|2|2|Healthy
+Matt|Luff|Right Winger|DET|11|7|Canada|1997|26|NULL|NULL|775000|2023|1|1|IR
+Aleksander|Barkov|Center|FLA|13|16|Finland|1995|28|2013|FLA|10000000|2023|7|7|Healthy
+Matthew|Tkachuk|Right Winger|FLA|13|19|United States|1997|25|2016|CGY|9500000|2023|7|7|Healthy
+Sam|Reinhart|Right Winger|FLA|13|13|Canada|1995|28|2014|BUF|6500000|2023|1|1|Healthy
+Sam|Bennett|Center|FLA|13|9|Canada|1996|27|2014|CGY|4425000|2023|2|2|Healthy
+Carter|Verhaeghe|Left Winger|FLA|13|23|Canada|1995|28|2013|TBL|4166667|2023|2|2|Healthy
+Evan|Rodrigues|Center|FLA|13|9|Canada|1993|30|NULL|NULL|3000000|2023|4|4|Healthy
+Eetu|Luostarinen|Left Winger|FLA|13|27|Finland|1998|25|2017|CAR|1500000|2023|4|4|Healthy
+Nick|Cousins|Left Winger|FLA|13|21|Canada|1993|30|2011|PHI|1100000|2023|1|1|Healthy
+Steven|Lorentz|Center|FLA|13|16|Canada|1996|27|2015|CAR|1050000|2023|1|1|Healthy
+Kevin|Stenlund|Center|FLA|13|11|Sweden|1996|27|2015|CBJ|1000000|2023|1|1|Healthy
+Anton|Lundell|Center|FLA|13|15|Finland|2001|22|2020|FLA|925000|2023|1|1|Healthy
+Jonah|Gadjovich|Left Winger|FLA|13|42|Canada|1998|25|2017|VAN|810000|2023|1|1|Healthy
+Ryan|Lomberg|Left Winger|FLA|13|94|Canada|1994|29|NULL|NULL|800000|2023|1|1|Healthy
+Aaron|Ekblad|Right Defense|FLA|13|5|Canada|1996|27|2014|FLA|7500000|2023|2|2|Healthy
+Brandon|Montour|Right Defense|FLA|13|62|Canada|1994|29|2014|ANA|3500000|2023|1|1|Healthy
+Gustav|Forsling|Left Defense|FLA|13|42|Sweden|1996|27|2014|VAN|2666667|2023|1|1|Healthy
+Niko|Mikkola|Left Defense|FLA|13|77|Finland|1996|27|2015|STL|2500000|2023|3|3|Healthy
+Oliver|Ekman-Larsson|Left Defense|FLA|13|23|Sweden|1991|32|2009|ARI|2250000|2023|1|1|Healthy
+Dmitry|Kulikov|Left Defense|FLA|13|7|Russia|1990|33|2009|FLA|1000000|2023|1|1|Healthy
+Josh|Mahura|Left Defense|FLA|13|76|Canada|1998|25|2016|ANA|925000|2023|1|1|Healthy
+Sergei|Bobrovsky|Goalie|FLA|13|72|Russia|1988|35|NULL|NULL|10000000|2023|3|3|Healthy
+Anthony|Stolarz|Goalie|FLA|13|41|United States|1994|29|2012|PHI|1100000|2023|1|1|Healthy
+Nick|Suzuki|Center|MTL|16|14|Canada|1999|24|2017|VGK|7875000|2022|2|8|Healthy
+Cole|Caufield|Left Winger|MTL|16|22|United States|2001|22|2019|MTL|7850000|2023|1|8|Healthy
+Brendan|Gallagher|Right Winger|MTL|16|11|Canada|1992|31|2010|MTL|65000000|2021|3|6|Healthy
+Josh|Anderson|Right Winger|MTL|16|29|Canada|1994|29|2012|CBJ|5500000|2023|4|4|Healthy
+Christian|Dvorak|Center|MTL|16|27|United States|1995|28|2014|ARI|4450000|2023|2|2|Healthy
+Joel|Armia|Right Winger|MTL|16|30|Finland|1993|30|2011|BUF|3400000|2023|2|2|Healthy
+Tanner|Pearson|Left Winger|MTL|16|31|Canada|1992|31|2012|LAK|3250000|2023|1|1|Healthy
+Sean|Monahan|Center|MTL|16|29|Canada|1994|29|2013|CGY|1985000|2023|1|1|Healthy
+Jake|Evans|Center|MTL|16|27|Canada|1996|27|2014|MTL|1700000|2023|2|2|Healthy
+Juraj|Slafkovsky|Right Winger|MTL|16|19|Slovakia|2004|19|2022|MTL|950000|2023|2|2|Healthy
+Michael|Pezzetta|Left Winger|MTL|16|25|Canada|1998|25|2016|MTL|812500|2023|2|2|Healthy
+Mitchell|Stephens|Center|MTL|16|26|Canada|1997|26|2015|TBL|775000|2023|1|1|Healthy
+Jesse|Ylonen|Right Winger|MTL|16|24|Finland|2000|23|2018|MTL|775000|2023|1|1|Healthy
+Michael|Matheson|Left Defense|MTL|16|29|Canada|1994|29|2012|FLA|4875000|2023|3|3|Healthy
+Gustav|Lindstrom|Right Defense|MTL|16|25|Sweden|1998|25|2017|DET|950000|2023|1|1|Healthy
+Justin|Barron|Right Defense|MTL|16|22|Canada|2001|22|2020|COL|925000|2023|1|1|Healthy
+Jayden|Struble|Left Defense|MTL|16|22|United States|2001|22|2019|MTL|867500|2023|2|2|Healthy
+Kaiden|Guhle|Left Defense|MTL|16|21|Canada|2002|21|2020|MTL|863333|2023|2|2|Healthy
+Mattias|Norlinder|Left Defense|MTL|16|23|Sweden|2000|23|2019|MTL|859167|2023|1|1|Healthy
+Johnathan|Kovacevic|Right Defense|MTL|16|26|Canada|1997|26|2017|WPG|766667|2023|2|2|Healthy
+Jake|Allen|Goalie|MTL|16|33|Canada|1990|33|2008|STL|3850000|2023|2|2|Healthy
+Samuel|Montembeault|Goalie|MTL|16|27|Canada|1996|27|2015|FLA|1000000|2023|4|4|Healthy
+Cayden|Primeau|Goalie|MTL|16|24|United States|1999|24|2017|MTL|890000|2023|2|2|Healthy
+David|Savard|Right Defense|MTL|16|33|Canada|1990|33|2009|CBJ|3500000|2023|2|2|IR
+Kirby|Dach|Center|MTL|16|22|Canada|2001|22|2019|CHI|3362500|2023|3|3|IR
+Alex|Newhook|Left Winger|MTL|16|22|Canada|2001|22|2019|COL|2900000|2023|4|4|IR
+Jordan|Harris|Left Defense|MTL|16|23|United States|2001|22|2018|MTL|1400000|2023|2|2|IR
+Rafael|Harvey-Pinard|Left Winger|MTL|16|24|Canada|1999|24|2019|MTL|1100000|2023|2|2|IR
+Arber|Xhekaj|Left Defense|MTL|16|22|Canada|2000|22|NULL|NULL|828333|2023|1|1|IR
+Chris|Wideman|Right Defense|MTL|16|33|United States|1990|33|NULL|NULL|762500|2023|1|1|IR
+Carey|Price|Goalie|MTL|16|35|Canada|1987|35|2005|MTL|10500000|2022|2|2|LTIR
+Tim|Stützle|Center|OTT|21|21|Germany|2002|21|2020|OTT|925000|2023|1|1|Healthy
+Brady|Tkachuk|Left Winger|OTT|21|24|Canada|1998|24|2018|OTT|8205714|2023|5|5|Healthy
+Joshua|Norris|Center|OTT|21|24|United States|1999|24|2017|SJS|7950000|2023|7|7|Healthy
+Claude|Giroux|Right Winger|OTT|21|35|Canada|1988|35|2006|PHI|6500000|2023|2|2|Healthy
+Vladimir|Tarasenko|Right Winger|OTT|21|31|Russia|1991|31|2010|STL|5000000|2023|1|1|Healthy
+Drake|Batherson|Right Winger|OTT|21|25|Canada|1998|25|2017|OTT|4975000|2023|4|4|Healthy
+Mathieu|Joseph|Left Winger|OTT|21|26|Canada|1997|26|2015|TBL|2950000|2023|3|3|Healthy
+Dominik|Kubalik|Left Winger|OTT|21|28|Czech Republic|1995|28|2013|CHI|2500000|2023|1|1|Healthy
+Rourke|Chartier|Center|OTT|21|27|Canada|1996|27|2014|SJS|775000|2023|1|1|Healthy
+Zack|MacEwen|Right Winger|OTT|21|27|Canada|1996|27|NULL|NULL|775000|2023|3|3|Healthy
+Parker|Kelly|Left Winger|OTT|21|24|Canada|1999|24|NULL|NULL|762500|2023|1|1|Healthy
+Shane|Pinto|Center|OTT|21|23|United States|2001|23|2019|OTT|925000|2023|1|1|Healthy
+Thomas|Chabot|Left Defense|OTT|21|26|Canada|1997|26|2015|OTT|8000000|2023|5|5|Healthy
+Jakob|Chychrun|Left Defense|OTT|21|25|Canada|1998|25|2016|ARI|4600000|2023|2|2|Healthy
+Artem|Zub|Right Defense|OTT|21|28|Russia|1996|28|NULL|NULL|4600000|2023|4|4|Healthy
+Erik|Brannstrom|Left Defense|OTT|21|24|Sweden|1999|24|2017|VGK|2000000|2023|1|1|Healthy
+Travis|Hamonic|Right Defense|OTT|21|33|Canada|1990|33|2008|NYI|1100000|2023|2|2|Healthy
+Jake|Sanderson|Left Defense|OTT|21|21|United States|2002|21|2020|OTT|925000|2023|9|9|Healthy
+Jacob|Bernard-Docker|Right Defense|OTT|21|23|Canada|2000|23|2018|OTT|805000|2023|2|2|Healthy
+Joonas|Korpisalo|Goalie|OTT|21|29|Finland|1994|29|2012|CBJ|4000000|2023|5|5|Healthy
+Anton|Forsberg|Goalie|OTT|21|31|Sweden|1992|31|2011|CBJ|2750000|2023|2|2|Healthy
+Ridly|Greig|Center|OTT|21|21|Canada|2002|21|2020|OTT|863333|2023|2|2|LTIR
+Mark|Kastelic|Center|OTT|21|24|United States|1999|24|2015|CGY|835000|2023|2|2|LTIR
+Steven|Stamkos|Left Winger|TBL|27|91|Canada|1989|34|2008|TBL|8500000|2023|1|5|IR
+Anthony|Cirelli|Center|TBL|27|71|Canada|1997|26|2015|TBL|6250000|2023|8|8|Healthy
+Nicholas|Paul|Center|TBL|27|20|Canada|1995|28|2013|DAL|3150000|2023|6|6|Healthy
+Tanner|Jeannot|Right Winger|TBL|27|84|Canada|1997|26|2015|NSH|2665000|2023|2|2|Healthy
+Brandon|Hagel|Left Winger|TBL|27|38|Canada|1998|25|2016|BUF|1500000|2023|9|9|Healthy
+Mikhail|Sergachev|Left Defense|TBL|27|98|Russia|1998|25|2016|MTL|8500000|2023|8|8|Healthy
+Victor|Hedman|Left Defense|TBL|27|77|Sweden|1990|33|2009|TBL|7875000|2023|2|2|Healthy
+Erik|Cernak|Right Defense|TBL|27|81|Slovakia|1997|26|2015|LAK|5200000|2023|8|8|Healthy
+Nick|Perbix|Right Defense|TBL|27|24|United States|1998|25|2017|TBL|1125000|2023|2|2|Healthy
+Calvin|De Haan|Left Defense|TBL|27|44|Canada|1991|32|2009|NYI|775000|2023|1|1|Healthy
+Haydn|Fleury|Left Defense|TBL|27|4|Canada|1996|27|2014|CAR|762500|2023|1|1|Healthy
+Darren|Raddysh|Right Defense|TBL|27|72|Canada|1996|27|NULL|NULL|762500|2023|3|3|Healthy
+Andrei|Vasilevskiy|Goalie|TBL|27|88|Russia|1994|29|2012|TBL|9500000|2023|5|5|Healthy
+Jonas|Johansson|Goalie|TBL|27|35|Sweden|1995|28|2014|BUF|775000|2023|2|2|Healthy
+Conor|Sheary|Left Winger|TBL|27|43|United States|1992|31|NULL|NULL|2000000|2023|3|3|IR
+Brent|Seabrook|Right Defense|TBL|27|7|Canada|1985|38|2003|CHI|6875000|2023|1|1|LTIR
+Logan|Brown|Center|TBL|27|21|United States|1998|25|2016|STL|775000|2023|1|1|LTIR
+Boone|Jenner|Center|CBJ|9|38|Canada|1993|30|2011|CBJ|3750000|2023|3|6|Healthy
+Sean|Kuraly|Center|CBJ|9|7|United States|1993|30|2011|SJS|2500000|2023|2|4|Healthy
+Eric|Robinson|Left Winger|CBJ|9|50|United States|1995|28|NULL|NULL|1600000|2023|1|2|Healthy
+Alexandre|Texier|Left Winger|CBJ|9|42|France|1999|24|2017|CBJ|1525000|2023|1|3|Healthy
+Mathieu|Olivier|Right Winger|CBJ|9|25|Canada|1997|26|NULL|NULL|1100000|2023|2|2|Healthy
+Justin|Danforth|Right Winger|CBJ|9|11|Canada|1993|30|NULL|NULL|975000|2023|2|2|Healthy
+Adam|Fantilli|Center|CBJ|9|51|Canada|2004|19|2022|CBJ|950000|2023|3|3|Healthy
+Kent|Johnson|Left Winger|CBJ|9|24|Canada|2002|21|2021|CBJ|925000|2023|1|3|Healthy
+Kirill|Marchenko|Right Winger|CBJ|9|14|Russia|2000|23|2018|CBJ|925000|2023|1|3|Healthy
+Cole|Sillinger|Center|CBJ|9|44|Canada|2003|20|2021|CBJ|925000|2023|1|3|Healthy
+Dmitri|Voronkov|Left Winger|CBJ|9|78|Russia|2000|23|2019|CBJ|925000|2023|2|3|Healthy
+Yegor|Chinakhov|Right Winger|CBJ|9|29|Russia|2001|22|2020|CBJ|800000|2023|1|3|Healthy
+Zachary|Werenski|Left Defense|CBJ|9|8|United States|1997|26|2015|CBJ|9583333|2023|5|6|Healthy
+Ivan|Provorov|Left Defense|CBJ|9|9|Russia|1997|26|2015|PHI|4725000|2023|2|6|Healthy
+Erik|Gudbranson|Right Defense|CBJ|9|44|Canada|1992|31|2010|FLA|4000000|2023|3|3|Healthy
+Andrew|Peeke|Right Defense|CBJ|9|2|United States|1998|25|2016|CBJ|2750000|2023|3|3|Healthy
+Adam|Boqvist|Right Defense|CBJ|9|27|Sweden|2000|23|2018|CHI|2600000|2023|2|4|Healthy
+Jake|Bean|Left Defense|CBJ|9|28|Canada|1998|25|2016|CAR|2333333|2023|1|3|Healthy
+David|Jiricek|Right Defense|CBJ|9|31|Czech Republic|2004|19|2022|CBJ|918333|2023|3|3|Healthy
+Elvis|Merzlikins|Goalie|CBJ|9|90|Latvia|1994|29|2014|CBJ|5400000|2023|4|5|Healthy
+Spencer|Martin|Goalie|CBJ|9|30|Canada|1995|28|2013|COL|762500|2023|1|1|Healthy
+Damon|Severson|Right Defense|CBJ|9|28|Canada|1994|29|2012|NJD|6250000|2023|8|8|IR
+Jack|Roslovic|Center|CBJ|9|96|United States|1997|26|2015|WPG|4000000|2023|1|2|IR
+Daniil|Tarasov|Goalie|CBJ|9|40|Russia|1999|24|2017|CBJ|1050000|2023|2|3|LTIR
+Timo|Meier|Left Winger|NJD|18|28|Switzerland|1996|27|2015|SJS|8800000|2023|6|8|Healthy
+Jack|Hughes|Center|NJD|18|86|United States|2001|22|2019|NJD|8000000|2023|5|7|Healthy
+Jesper|Bratt|Right Winger|NJD|18|63|Sweden|1998|25|2016|NJD|7875000|2023|6|8|Healthy
+Nico|Hischier|Center|NJD|18|13|Switzerland|1999|24|2017|NJD|7250000|2023|2|6|Healthy
+Ondrej|Palat|Left Winger|NJD|18|18|Czech Republic|1991|32|NULL|NULL|6000000|2023|2|6|Healthy
+Tyler|Toffoli|Right Winger|NJD|18|73|Canada|1992|31|2010|LAK|4250000|2023|0|1|Healthy
+Erik|Haula|Center|NJD|18|56|Finland|1991|32|2009|MIN|3150000|2023|1|4|Healthy
+Michael|McLeod|Center|NJD|18|20|Canada|1998|25|2016|NJD|1400000|2023|0|1|Healthy
+Nathan|Bastian|Right Winger|NJD|18|14|Canada|1997|25|2016|NJD|1350000|2023|1|3|Healthy
+Curtis|Lazar|Right Winger|NJD|18|20|Canada|1995|28|2013|BUF|1000000|2023|1|3|Healthy
+Alexander|Holtz|Right Winger|NJD|18|10|Sweden|2002|21|2020|NJD|894167|2023|1|3|Healthy
+Dawson|Mercer|Right Winger|NJD|18|18|Canada|2001|22|2020|NJD|894167|2023|0|1|Healthy
+Chris|Tierney|Center|NJD|18|71|Canada|1994|29|2012|SJS|775000|2023|0|1|Healthy
+John|Marino|Right Defense|NJD|18|6|United States|1997|26|2015|EDM|4400000|2023|3|7|Healthy
+Jonas|Siegenthaler|Left Defense|NJD|18|71|Switzerland|1997|26|2015|WSH|3400000|2023|4|9|Healthy
+Colin|Miller|Right Defense|NJD|18|6|Canada|1992|31|2012|LAK|1850000|2023|0|1|Healthy
+Brendan|Smith|Left Defense|NJD|18|2|Canada|1989|34|2007|DET|1100000|2023|0|1|Healthy
+Kevin|Bahl|Left Defense|NJD|18|88|Canada|2001|22|2018|ARI|1050000|2023|1|3|Healthy
+Luke|Hughes|Left Defense|NJD|18|4|United States|2003|20|2021|NJD|925000|2023|1|3|Healthy
+Simon|Nemec|Right Defense|NJD|18|7|Slovakia|2004|19|2022|NJD|918333|2023|2|5|Healthy
+Vitek|Vanecek|Goalie|NJD|18|2|Czech Republic|1996|27|2014|WSH|3400000|2023|1|3|Healthy
+Akira|Schmid|Goalie|NJD|18|40|Switzerland|2000|23|2018|NJD|850833|2023|0|1|Healthy
+Dougie|Hamilton|Right Defense|NJD|18|7|Canada|1993|30|2011|BOS|9000000|2023|4|9|IR
+Tomas|Nosek|Left Winger|NJD|18|92|Czech Republic|1992|31|2011|DET|1000000|2023|0|1|IR
+Matthew|Barzal|Center|NYI|19|13|Canada|1997|26|2015|NYI|9150000|2023|1|8|Healthy
+Bo|Horvat|Center|NYI|19|14|Canada|1995|28|2013|VAN|8500000|2023|1|8|Healthy
+Anders|Lee|Left Winger|NYI|19|27|United States|1989|34|2009|NYI|7000000|2023|3|7|Healthy
+Brock|Nelson|Center|NYI|19|29|United States|1991|32|2010|NYI|6000000|2023|2|6|Healthy
+Jean-Gabriel|Pageau|Center|NYI|19|44|Canada|1992|31|2011|OTT|5000000|2023|3|6|Healthy
+Kyle|Palmieri|Right Winger|NYI|19|21|United States|1991|32|2009|ANA|5000000|2023|2|4|Healthy
+Pierre|Engvall|Left Winger|NYI|19|20|Sweden|1996|27|2014|TOR|3000000|2023|7|7|Healthy
+Casey|Cizikas|Center|NYI|19|53|Canada|1991|32|2009|NYI|2500000|2023|4|4|Healthy
+Cal|Clutterbuck|Right Winger|NYI|19|15|Canada|1987|36|2006|MIN|1750000|2023|1|1|Healthy
+Matt|Martin|Left Winger|NYI|19|17|Canada|1989|34|2008|NYI|1500000|2023|1|1|Healthy
+Oliver|Wahlstrom|Right Winger|NYI|19|26|United States|2000|23|2018|NYI|874125|2023|1|3|Healthy
+Simon|Holmström|Right Winger|NYI|19|52|Sweden|2001|22|2019|NYI|863333|2023|1|3|Healthy
+Julien|Gauthier|Right Winger|NYI|19|12|Canada|1997|26|2016|CAR|787500|2023|2|2|Healthy
+Hudson|Fasching|Right Winger|NYI|19|14|United States|1995|28|2013|LAK|775000|2023|2|2|Healthy
+Ryan|Pulock|Right Defense|NYI|19|6|Canada|1994|29|2013|NYI|6150000|2023|7|7|Healthy
+Noah|Dobson|Right Defense|NYI|19|8|Canada|2000|23|2018|NYI|4000000|2023|2|3|Healthy
+Scott|Mayfield|Right Defense|NYI|19|24|United States|1992|31|2011|STL|3500000|2023|7|7|Healthy
+Alexander|Romanov|Left Defense|NYI|19|28|Russia|2000|23|2018|MTL|2500000|2023|2|3|Healthy
+Mike|Reilly|Left Defense|NYI|19|5|United States|1993|30|2011|CBJ|1000000|2023|1|1|Healthy
+Samuel|Bolduc|Left Defense|NYI|19|25|Canada|2000|23|2019|NYI|800000|2023|2|3|Healthy
+Grant|Hutton|Right Defense|NYI|19|4|United States|1995|28|2014|COL|775000|2023|2|2|Healthy
+Ilya|Sorokin|Goalie|NYI|19|30|Russia|1995|28|2014|NYI|4000000|2023|9|9|Healthy
+Semyon|Varlamov|Goalie|NYI|19|40|Russia|1988|35|2006|WSH|2750000|2023|4|4|Healthy
+Sebastian|Aho|Left Defense|NYI|19|25|Sweden|1996|27|2017|NYI|825000|2023|1|1|IR
+Adam|Pelech|Left Defense|NYI|19|3|Canada|1994|29|2012|NYI|5750000|2023|6|6|LTIR
+Artemi|Panarin|32|Left Winger|NYR|20|10|Russia|1991|32|NULL|NULL|11642857|2023|3|3|Healthy
+Mika|Zibanejad|30|Center|NYR|20|93|Sweden|1993|30|2011|OTT|8500000|2023|7|7|Healthy
+Chris|Kreider|32|Left Winger|NYR|20|20|United States|1991|32|2009|NYR|6500000|2023|4|4|Healthy
+Vincent|Trocheck|30|Center|NYR|20|16|United States|1993|30|2011|FLA|5625000|2023|6|6|Healthy
+Barclay|Goodrow|30|Center|NYR|20|21|Canada|1993|30|NULL|NULL|3641667|2023|4|4|Healthy
+Alexis|Lafrenière|22|Left Winger|NYR|20|13|Canada|2001|22|2020|NYR|2325000|2023|2|2|Healthy
+Will|Cuylle|21|Left Winger|NYR|20|59|Canada|2002|21|2020|NYR|828333|2023|2|2|Healthy
+Blake|Wheeler|37|Right Winger|NYR|20|26|United States|1986|37|2004|PHX|800000|2023|1|1|Healthy
+Nick|Bonino|35|Center|NYR|20|13|United States|1988|35|2007|SJS|800000|2023|1|1|Healthy
+Jimmy|Vesey|30|Right Winger|NYR|20|26|United States|1993|30|2012|NSH|800000|2023|2|2|Healthy
+Tyler|Pitlick|32|Right Winger|NYR|20|9|United States|1991|32|2010|EDM|787500|2023|1|1|Healthy
+Anton|Blidh|28|Left Winger|NYR|20|38|Sweden|1995|28|2013|BOS|775000|2023|2|2|Healthy
+Jonny|Brodzinski|30|Center|NYR|20|64|United States|1993|30|2013|SJS|762500|2023|1|1|Healthy
+Adam|Fox|25|Right Defense|NYR|20|23|United States|1998|25|2016|CGY|9500000|2023|6|6|Healthy
+Jacob|Trouba|29|Right Defense|NYR|20|8|United States|1994|29|2012|WPG|8000000|2023|3|3|Healthy
+K'Andre|Miller|23|Left Defense|NYR|20|79|United States|2000|23|2018|NYR|3872000|2023|2|2|Healthy
+Ryan|Lindgren|25|Left Defense|NYR|20|55|United States|1998|25|2016|BOS|3000000|2023|1|1|Healthy
+Braden|Schneider|22|Right Defense|NYR|20|4|Canada|2001|22|2020|NYR|925000|2023|1|1|Healthy
+Erik|Gustafsson|31|Left Defense|NYR|20|56|Sweden|1992|31|2012|EDM|825000|2023|1|1|Healthy
+Zachary|Jones|23|Left Defense|NYR|20|6|United States|2000|23|2019|NYR|812500|2023|2|2|Healthy
+Igor|Shesterkin|27|Goalie|NYR|20|31|Russia|1995|27|2014|NYR|5666667|2023|2|2|Healthy
+Jonathan|Quick|37|Goalie|NYR|20|32|United States|1986|37|2005|LAK|825000|2023|1|1|Healthy
+Filip|Chytil|24|Center|NYR|20|72|Czech Republic|1999|24|2017|NYR|4437500|2023|4|4|LTIR
+Kaapo|Kakko|22|Right Winger|NYR|20|24|Finland|2001|22|2019|NYR|2100000|2023|1|1|LTIR
+Sean|Couturier|30|Center|PHI|22|14|Canada|1992|31|2011|PHI|7750000|2023|7|7|Healthy
+Cam|Atkinson|34|Right Winger|PHI|22|89|United States|1989|34|2008|CBJ|5875000|2023|2|2|Healthy
+Travis|Konecny|26|Right Winger|PHI|22|11|Canada|1997|26|2015|PHI|5500000|2023|2|2|Healthy
+Joel|Farabee|23|Left Winger|PHI|22|86|United States|2000|23|2018|PHI|5000000|2023|5|5|Healthy
+Scott|Laughton|29|Left Winger|PHI|22|21|Canada|1994|29|2012|PHI|3000000|2023|3|3|Healthy
+Noah|Cates|24|Center|PHI|22|49|United States|1999|24|2017|PHI|2625000|2023|2|2|Healthy
+Garnet|Hathaway|32|Right Winger|PHI|22|21|Canada|1991|32|NULL|NULL|2375000|2023|2|2|Healthy
+Morgan|Frost|24|Center|PHI|22|48|Canada|1999|24|2017|PHI|2100000|2023|2|2|Healthy
+Nicolas|Deslauriers|32|Left Winger|PHI|22|44|Canada|1991|32|2009|LAK|1750000|2023|3|3|Healthy
+Owen|Tippett|24|Right Winger|PHI|22|74|Canada|1999|24|2017|FLA|1500000|2023|1|1|Healthy
+Ryan|Poehling|24|Left Winger|PHI|22|25|United States|1999|24|2017|MTL|1400000|2023|1|1|Healthy
+Bobby|Brink|22|Right Winger|PHI|22|24|United States|2001|22|2019|PHI|925000|2023|1|1|Healthy
+Tyson|Foerster|21|Right Winger|PHI|22|52|Canada|2002|21|2020|PHI|863333|2023|2|2|Healthy
+Travis|Sanheim|27|Left Defense|PHI|22|6|Canada|1996|27|2014|PHI|6250000|2023|8|8|Healthy
+Rasmus|Ristolainen|29|Right Defense|PHI|22|70|Finland|1994|29|2013|BUF|5100000|2023|4|4|Healthy
+Sean|Walker|29|Left Defense|PHI|22|26|Canada|1994|29|NULL|NULL|2650000|2023|1|1|Healthy
+Cam|York|22|Left Defense|PHI|22|45|United States|2001|22|2019|PHI|1600000|2023|2|2|Healthy
+Marc|Staal|36|Left Defense|PHI|22|18|Canada|1987|36|2005|NYR|1100000|2023|1|1|Healthy
+Nick|Seeler|30|Left Defense|PHI|22|24|United States|1993|30|2011|MIN|775000|2023|1|1|Healthy
+Yegor|Zamula|23|Left Defense|PHI|22|54|Russia|2001|22|2018|PHI|775000|2023|1|1|Healthy
+Louis|Belpedio|27|Right Defense|PHI|22|47|United States|1996|27|2014|MIN|775000|2023|2|2|Healthy
+Carter|Hart|25|Goalie|PHI|22|79|Canada|1998|25|2016|PHI|3979000|2023|1|1|Healthy
+Samuel|Ersson|24|Goalie|PHI|22|1|Sweden|1999|24|2018|PHI|859167|2023|3|3|Healthy
+Ryan|Ellis|32|Right Defense|PHI|22|94|Canada|1991|32|2009|NSH|6250000|2023|1|1|IR
+Jake Guentzel|Left Winger|PIT|23|59|United States|1994|29|2013|PIT|6000000|2023|1|7|Healthy
+Sidney|Crosby|Center|PIT|23|87|Canada|1987|36|2005|PIT|8700000|2013|11|12|Healthy
+Evgeni|Malkin|Center|PIT|23|71|Russia|1986|37|2004|PIT|6100000|2022|2|4|Healthy
+Jake|Guentzel|Left Wing|PIT|23|59|United States|1994|29|2013|PIT|6000000|2019|5|5|Healthy
+Bryan Rust|Right Winger|PIT|23|17|United States|1992|31|2010|PIT|5125000|2023|5|6|Healthy
+Reilly Smith|Left Winger|PIT|23|23|Canada|1991|32|2009|DAL|5000000|2023|2|6|Healthy
+Jeff Carter|Center|PIT|23|77|Canada|1985|38|2003|CBJ|3125000|2023|1|3|Healthy
+Lars Eller|Center|PIT|23|20|Denmark|1989|34|2007|STL|2450000|2023|2|3|Healthy
+Noel Acciari|Center|PIT|23|55|United States|1991|32|2015|FLA|2000000|2023|3|3|Healthy
+Drew O'Connor|Left Winger|PIT|23|10|United States|1998|25|NULL|NULL|925000|2023|2|2|Healthy
+Jansen Harkins|Left Winger|PIT|23|12|Canada|1997|26|2015|WPG|850000|2023|1|1|Healthy
+Vinnie Hinostroza|Right Winger|PIT|23|13|United States|1994|29|2012|CHI|775000|2023|1|1|Healthy
+Joona Koppanen|Left Winger|PIT|23|42|Finland|1998|25|2016|BOS|775000|2023|2|2|Healthy
+Radim Zohorna|Center|PIT|23|67|Czech Republic|1996|27|NULL|NULL|775000|2023|1|1|Healthy
+Erik Karlsson|Right Defense|PIT|23|65|Sweden|1990|33|2008|OTT|10000000|2023|5|8|Healthy
+Kris Letang|Right Defense|PIT|23|58|Canada|1987|36|2005|PIT|6100000|2023|5|8|Healthy
+Ryan Graves|Left Defense|PIT|23|33|Canada|1995|28|2013|NYR|4500000|2023|6|6|Healthy
+Marcus Pettersson|Left Defense|PIT|23|28|Sweden|1996|27|2014|ANA|4025175|2023|2|4|Healthy
+John Ludvig|Left Defense|PIT|23|68|Canada|2000|23|2019|FLA|775000|2023|2|2|Healthy
+Dmitri Samorukov|Left Defense|PIT|23|84|Russia|1999|24|2017|EDM|775000|2023|1|1|Healthy
+Ryan Shea|Left Defense|PIT|23|46|United States|1997|26|2015|CHI|775000|2023|1|1|Healthy
+Tristan Jarry|Goalie|PIT|23|35|Canada|1995|28|2013|PIT|5375000|2023|5|6|Healthy
+Alex Nedeljkovic|Goalie|PIT|23|39|United States|1996|27|2014|DET|1500000|2023|1|1|Healthy
+Matt Nieto|Left Winger|PIT|23|83|United States|1992|31|2011|SJS|900000|2023|2|2|IR
+Pierre-Olivier Joseph|Left Defense|PIT|23|73|Canada|1999|24|2017|ARI|825000|2023|1|1|IR
+Chad Ruhwedel|Right Defense|PIT|23|2|United States|1990|33|2013|BUF|800000|2023|1|1|IR
+Rickard|Rakell|Right Wing|PIT|23|67|Sweden|1993|30|2011|ANA|5000000|2023|1|6|LTIR

@@ -1,0 +1,64 @@
+Henry|Samueli|Owner|2005|ANA|1
+Pat|Verbeek|General Manager|2022|ANA|1
+Alex|Meruelo|Owner|2019|ARI|2
+Bill|Armstrong|General Manager|2020|ARI|2
+Jeremy|Jacobs|Chairman|1975|BOS|3
+Don|Sweeney|General Manager|2015|BOS|3
+Cam|Neely|President|2010|BOS|3
+Terry|Pegula|Owner|2011|BUF|4
+Kevyn|Adams|General Manager|2020|BUF|4
+Norman|Edwards|Chairman|1980|CGY|5
+Craig|Conroy|General Manager|2023|CGY|5
+Thomas|Dundon|Owner|2018|CAR|6
+Don|Waddell|General Manager|2018|CAR|6
+Danny|Wirtz|Chairman|2023|CHI|7
+Kyle|Davidson|General Manager|2021|CHI|7
+Ann Walton|Kroenke|Owner|2000|COL|8
+Chris|MacFarland|General Manager|2022|COL|8
+John P.|McConnell|Owner|2012|CBJ|9
+Jarmo|Kekalainen|General Manager|2013|CBJ|9
+Tom|Gaglardi|Owner|2011|DAL|10
+Jim|Nill|General Manager|2013|DAL|10
+Marian|Illitch|Owner|1982|DET|11
+Steve|Yzerman|General Manager|2019|DET|11
+Daryl|Katz|Owner|2008|EDM|12
+Ken|Holland|General Manager|2019|EDM|12
+Vincent|Viola|Owner|2013|FLA|13
+Bill|Zito|General Manager|2020|FLA|13
+Philip|Anschutz|Owner|1995|LAK|14
+Rob|Blake|General Manager|2017|LAK|14
+Craig|Leipold|Owner|2008|MIN|15
+Bill|Guerin|General Manager|2019|MIN|15
+Molson|Family|Owner|2009|MTL|16
+Kent|Hughes|General Manager|2022|MTL|16
+Herb|Fritch|Owner|2007|NSH|17
+Barry|Trotz|General Manager|2023|NSH|17
+David|Blitzer|Owner|2013|NJD|18
+Tom|Fitzgerald|General Manager|2020|NJD|18
+Jon|Ledecky|Owner|2016|NYI|19
+Lou|Lamoriello|General Manager|2018|NYI|19
+James L.|Dolan|Owner|1997|NYR|20
+Chris|Drury|General Manager|2021|NYR|20
+Steve|Staios|General Manager|2023|OTT|21
+Daniel|Briere|General Manager|2023|PHI|22
+Kyle|Dubas|General Manager|2023|PIT|23
+Ronald|Burkle|Owner|1999|PIT|23
+Hasso|Plattner|Owner|2002|SJS|24
+Mike|Grier|General Manager|2022|SJS|24
+David|Bonderman|Owner|2018|SEA|25
+Ron|Francis|General Manager|2019|SEA|25
+Tom|Stillman|Owner|2012|STL|26
+Doug|Armstrong|General Manager|2010|STL|26
+Jeffrey|Vinik|Owner|2010|TBL|27
+Julien|BriseBois|General Manager|2018|TBL|27
+Larry|Tanenbaum|Owner|1996|TOR|28
+Brad|Treliving|General Manager|2023|TOR|28
+Francesco|Aquilini|Owner|2005|VAN|29
+Patrik|Allvin|General Manager|2022|VAN|29
+Bill|Foley|Owner|2016|VGK|30
+George|McPhee|President|2020|VGK|30
+Kelly|McCrimmon|General Manager|2019|VGK|30
+Ted|Leonsis|Owner|1999|WSH|31
+Brian|MacLellan|General Manager|2014|WSH|31
+Mark|Chipman|Owner|2011|WPG|32
+Kevin|Cheveldayoff|General Manager|2011|WPG|32

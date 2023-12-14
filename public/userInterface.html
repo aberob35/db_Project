@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>NHL HOCKEY STATS</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f4;
+            margin: 0;
+            padding: 0;
+            box-sizing: border-box;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        #container {
+            background-color: #fff;
+            padding: 100px;
+            border-radius: 8px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+            width: 400px;
+        }
+
+        h1, h2, h3 {
+            text-align: center;
+        }
+
+        label {
+            display: block;
+            margin-top: 10px;
+        }
+
+        input {
+            width: 100%;
+            padding: 8px;
+            margin-top: 5px;
+            box-sizing: border-box;
+        }
+    </style>
+</head>
+<body>
+    <div id="container">
+        <h1>NHL HOCKEY STATS</h1>
+        <h3>Press '=' on keyboard to change background color</h3>
+
+
+        <h2>Find Player</h2>
+        <label for="playerName">Player Name:</label>
+        <input type="text" id="firstName" name="playerName" placeholder="Enter first name with capital Ex: Mark">
+        <input type="text" id="lastName" name="lastName" placeholder="Enter last name with capital Ex: Stone">
+        <button type="submit" id = "playerButton">Submit </button>
+
+        <h2>Find Team</h2>
+        <label for="teamName">Team Name:</label>
+        <input type="text" id="teamName" name="teamName" placeholder="Enter Full Team Name Ex: Vegas Golden Knights">
+        <button type="submit" id = "teamButton">Submit</button>
+        
+    </div>
+    <script src="mainInterface.js"></script>
+</body>
+</html>

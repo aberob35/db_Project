@@ -1,0 +1,32 @@
+2023-2024|1|Anaheim Ducks|ANA|24|10|14|0|20
+2023-2024|2|Arizona Coyotes|ARI|23|12|9|2|26
+2023-2024|3|Boston Bruins|BOS|23|16|4|3|35
+2023-2024|4|Buffalo Sabres|BUF|24|10|12|2|22
+2023-2024|5|Calgary Flames|CGY|24|10|11|3|23
+2023-2024|6|Carolina Hurricanes|CAR|23|14|8|1|29
+2023-2024|7|Chicago Blackhawks|CHI|23|7|16|0|14
+2023-2024|8|Colorado Avalanche|COL|23|15|6|2|32
+2023-2024|9|Columbus Blue Jackets|CBJ|25|8|13|4|20
+2023-2024|10|Dallas Stars|DAL|22|14|5|3|31
+2023-2024|11|Detroit Red Wings|DET|23|13|7|3|29
+2023-2024|12|Edmonton Oilers|EDM|22|9|12|1|19
+2023-2024|13|Florida Panthers|FLA|24|14|8|2|30
+2023-2024|14|Los Angeles Kings|LAK|20|13|4|3|29
+2023-2024|15|Minnesota Wild|MIN|22|8|10|4|20
+2023-2024|16|Montreal Canadiens|MTL|24|10|11|3|23
+2023-2024|17|Nashville Predators|NSH|23|11|12|0|22
+2023-2024|18|New Jersey Devils|NJD|22|11|10|0|23
+2023-2024|19|New York Islanders|NYI|23|10|7|4|26
+2023-2024|20|New York Rangers|NYR|22|17|4|1|35
+2023-2024|21|Ottawa Senators|OTT|19|9|10|0|18
+2023-2024|22|Philadelphia Flyers|PHI|24|12|10|2|26
+2023-2024|23|Pittsburgh Penguins|PIT|23|11|10|1|24
+2023-2024|24|San Jose Sharks|SJS|24|6|16|0|14
+2023-2024|25|Seattle Kraken|SEA|25|8|11|3|22
+2023-2024|26|St. Louis Blues|STL|23|12|10|0|25
+2023-2024|27|Tampa Bay Lightning|TBL|25|10|10|5|25
+2023-2024|28|Toronto Maple Leafs|TOR|22|12|6|3|28
+2023-2024|29|Vancouver Canucks|VAN|25|16|8|1|33
+2023-2024|30|Vegas Golden Knights|VGK|25|16|5|3|36
+2023-2024|31|Washington Capitals|WSH|21|12|7|2|26
+2023-2024|32|Winnipeg Jets|WPG|23|13|8|1|28

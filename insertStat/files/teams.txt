@@ -1,0 +1,32 @@
+1|Anaheim Ducks|ANA|Anaheim|California|United States|1993|Honda Center|Pacific|Western|Orange|data\logos\ana
+2|Arizona Coyotes|ARI|Tempe|Arizona|United States|1972|ASU Multi-Purpose Arena|Central|Western|Khaki|data\logos\ari
+3|Boston Bruins|BOS|Boston|Massachusetts|United States|1924|TD Garden|Atlantic|Eastern|Yellow|data\logos\bos
+4|Buffalo Sabres|BUF|Buffalo|New York|United States|1970|KeyBank Center|Atlantic|Eastern|Teal|data\logos\buf
+5|Calgary Flames|CGY|Calgary|Alberta|Canada|1972|Scotiabank Sattledome|Pacific|Western|Firebrick|data\logos\cgy
+6|Carolina Hurricanes|CAR|Raleigh|North Carolina|United States|1972|PNC Arena|Metropolitan|Eastern|Red|data\logos\car
+7|Chicago Blackhawks|CHI|Chicago|Illinois|United States|1926|United Center|Central|Western|Crimson|data\logos\chi
+8|Colorado Avalanche|COL|Denver|Colorado|United States|1972|Ball Arena|Central|Western|Teal|data\logos\col
+9|Columbus Blue Jackets|CBJ|Columbus|Ohio|United States|1997|Nationwide Arena|Metropolitan|Western|Navy|data\logos\cbj
+10|Dallas Stars|DAL|Dallas|Texas|United States|1996|American Airlines Center|Central|Western|Green|data\logos\dal
+11|Detroit Red Wings|DET|Detroit|Michigan|United States|1926|Little Caesars Arena|Metropolitan|Eastern|Red|data\logos\det
+12|Edmonton Oilers|EDM|Edmonton|Alberta|Canada|1971|Rogers Place|Pacific|Western|Orange|data\logos\edm
+13|Florida Panthers|FLA|Sunrise|Florida|United States|1993|FLA Live Arena|Atlantic|Eastern|Crimson|data\logos\fla
+14|Los Angeles Kings|LAK|Los Angeles|California|United States|1967|Crypto.com Arena|Pacific|Western|Gray|data\logos\lak
+15|Minnesota Wild|MIN|Saint Paul|Minnesota|United States|1997|Xcel Energy Center|Central|Western|Forestgreen|data\logos\min
+16|Montreal Canadiens|MTL|Montreal|Quebec|Canada|1909|Centre Bell|White|Atlantic|Eastern|data\logos\mtl
+17|Nashville Predators|NSH|Nashville|Tennessee|United States|1997|Bridgestone Arena|Central|Western|Yellow|data\logos\nsh
+18|New Jersey Devils|NJD|Newark|New Jersey|United States|1974|Prudential Center|Metropolitan|Eastern|Crimson|data\logos\njd
+19|New York Islanders|NYI|Elmont|New York|United States|1972|UBS Arena|Metropolitan|Eastern|Orange|data\logos\nyi
+20|New York Rangers|NYR|New York City|New York|United States|1926|Madison Square Garden|Metropolitan|Eastern||Navy|data\logos\nyr
+21|Ottawa Senators|OTT|Ottawa|Ontario|Canada|1990|Canadian Tire Centre|Atlantic|Eastern|Darkred|data\logos\ott
+22|Philidelphia Flyers|PHI|Philidelphia|Pennsylvania|United States|1967|Wells Fargo Center|Metropolitan|Eastern|Tomato|data\logos\phi
+23|Pittsburgh Penguins|PIT|Pittsburgh|Pennsylvania|United States|1967|PPG Paints Arena|Metropolitan|Eastern|Yellow|data\logos\pit
+24|San Jose Sharks|SJS|San Jose|California|United States|1990|SAP Center|Pacific|Western|Teal|data\logos\sjs
+25|Seattle Kraken|SEA|Seattle|Washington|United States|2018|Climate Pledge Arena|Pacific|Western|Deepskyblue|data\logos\sea
+26|St. Louis Blues|STL|St. Louis|Missouri|United States|1967|Enterprise Center|Central|Western|Darkblue|data\logos\stl
+27|Tampa Bay Lightning|TBL|Tampa Bay|Florida|United States|1992|Amalie Arena|Atlantic|Eastern|Blue|data\logos\tbl
+28|Toronto Maple Leafs|TOR|Toronto|Ontario|Canada|1917|Scotiabank Arena|Atlantic|Eastern|Darkblue|data\logos\tor
+29|Vancouver Canucks|VAN|Vancouver|British Columbia|Canada|1945|Rogers Arena|Pacific|Western|Cyan|data\logos\van
+30|Vegas Golden Knights|VGK|Las Vegas|Nevada|United States|2017|T-Mobile Arena|Pacific|Western|Gold|data\logos\vgk
+31|Washington Capitals|WSH|Washington, D.C.|Washington, D.C.|United States|1974|Capital One Arena|Metropolitan|Eastern|Red|data\logos\wsh
+32|Winnipeg Jets|WPG|Winnipeg|Manitoba|Canada|1999|Canada Life Centre|Central|Western|Blue|data\logos\win
